@@ -56,7 +56,7 @@ Build/*
 !Build/*/
 Build/*/**
 !Build/*/PakBlacklist*.txt
-Build/Content/Assets
+Build/Content/Assets/
 
 # Don't ignore icon files in Build
 !Build/**/*.ico
