@@ -77,7 +77,6 @@ DerivedDataCache/*
 #anriarukouki/.vs
 #anriarukouki/Binaries
 #anriarukouki/Assets
-#anriarukouki/Saved
 #anriarukouki/Intermediate/config
 #anriarukouki/Intermediate/Build
 #anriarukouki/Intermediate/ReimportCache
@@ -86,6 +85,5 @@ DerivedDataCache/*
 
 **/Assets
 .idea
-Saved/
-Saved/Logs
+Saved
 Intermediate/
