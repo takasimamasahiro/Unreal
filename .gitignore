@@ -56,9 +56,6 @@ Build/*
 !Build/*/
 Build/*/**
 !Build/*/PakBlacklist*.txt
-Content/Assets/
-Saved/
-Intermediate/
 # Don't ignore icon files in Build
 !Build/**/*.ico
 
@@ -76,5 +73,18 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # My Ignore
-*.idea/
-*Saved/
+
+#anriarukouki/.vs
+#anriarukouki/Binaries
+#anriarukouki/Assets
+#anriarukouki/Saved
+#anriarukouki/Intermediate/config
+#anriarukouki/Intermediate/Build
+#anriarukouki/Intermediate/ReimportCache
+#anriarukouki/Intermediate/CachedAssetRegistry.bin
+#anriarukouki/Intermediate/AssetRegistryCache
+
+**/Assets
+.idea
+Saved/
+Intermediate/
