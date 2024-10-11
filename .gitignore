@@ -76,4 +76,5 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # My Ignore
-.idea/
+*.idea/
+*Saved/
