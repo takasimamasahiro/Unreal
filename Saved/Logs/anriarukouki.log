@@ -1134,3 +1134,96 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.11-05.49.47:068][  2]LogD3D12RHI: Cannot end block when stack is empty
 [2024.10.11-05.49.47:870][ 12]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.10.11-05.51.32:958][794]LogDerivedDataCache: C:/Users/vantan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.474 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4759 files in 6341 folders with total size 980 MiB.
+[2024.10.11-06.48.23:795][929]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2024.10.11-06.48.23:805][929]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2024.10.11-06.48.23:807][929]Cmd: MAP LOAD FILE="../../../../../../Users/vantan/Documents/Unreal/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.11-06.48.23:807][929]LightingResults: New page: Lighting Build
+[2024.10.11-06.48.23:808][929]LoadErrors: New page: Loading map: FirstPersonMap.umap
+[2024.10.11-06.48.23:840][929]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-06.48.23:845][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-06.48.23:854][929]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.10.11-06.48.23:858][929]MapCheck: New page: Map Check
+[2024.10.11-06.48.23:858][929]LightingResults: New page: Lighting Build
+[2024.10.11-06.48.23:863][929]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.11-06.48.23:880][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.10.11-06.48.23:901][929]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2024.10.11-06.48.23:901][929]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-06.48.23:903][929]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-06.48.23:905][929]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.10.11-06.48.23:908][929]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.10.11-06.48.23:908][929]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.11-06.48.23:908][929]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.11-06.48.23:955][929]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.10.11-06.48.23:955][929]LogWorldPartition: Display: WorldPartition initialize took 47 ms (total: 686 ms)
+[2024.10.11-06.48.24:055][929]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.11-06.48.24:060][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.10.11-06.48.24:063][929]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.11-06.48.24:064][929]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.243ms to complete.
+[2024.10.11-06.48.25:998][ 40]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-06.48.26:063][ 41]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-06.48.26:099][ 42]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-06.48.32:858][434]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.10.11-06.48.35:836][583]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2024.10.11-06.48.35:932][583]LogContentBrowser: Creating deferred item: NewWorld
+[2024.10.11-06.48.35:940][584]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2024.10.11-06.48.37:390][670]LogContentBrowser: Attempting asset rename: NewWorld -> NewWorld
+[2024.10.11-06.48.37:392][670]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-06.48.37:392][670]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-06.48.37:401][670]LogContentBrowser: End creating deferred item NewWorld
+[2024.10.11-06.48.38:010][704]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Assets/NewWorld does not exist, will not scan.
+[2024.10.11-06.48.39:028][749]LogObjectTools: Deleting 1 worlds: /Game/Assets/NewWorld.NewWorld
+[2024.10.11-06.48.39:028][749]LogObjectTools: Currently 5 active worlds: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3
+[2024.10.11-06.48.39:034][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.10.11-06.48.40:228][749]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.11-06.48.40:237][749]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-06.48.40:237][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-06.48.40:251][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.10.11-06.48.40:257][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.10.11-06.48.40:260][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.10.11-06.48.44:299][951]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-06.49.11:745][438]LogSlate: Window 'New Level' being destroyed
+[2024.10.11-06.49.11:755][438]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.11-06.49.11:761][438]LightingResults: New page: Lighting Build
+[2024.10.11-06.49.11:762][438]LoadErrors: New page: Loading map: Template_Default.umap
+[2024.10.11-06.49.11:775][438]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-06.49.11:775][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-06.49.11:777][438]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.10.11-06.49.11:777][438]MapCheck: New page: Map Check
+[2024.10.11-06.49.11:777][438]LightingResults: New page: Lighting Build
+[2024.10.11-06.49.11:780][438]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.11-06.49.11:783][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.10.11-06.49.11:835][438]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2024.10.11-06.49.11:835][438]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-06.49.11:835][438]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-06.49.11:835][438]LogAIModule: Creating AISystem for world Untitled_1
+[2024.10.11-06.49.11:886][438]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.11-06.49.11:891][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.10.11-06.49.11:891][438]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.11-06.49.11:892][438]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.148ms to complete.
+[2024.10.11-06.49.23:653][640]LogSlate: Window 'Save Level As' being destroyed
+[2024.10.11-06.49.23:796][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/HiyoshiMap" FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/HiyoshiMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.11-06.49.23:815][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.10.11-06.49.23:829][640]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.011425 seconds
+[2024.10.11-06.49.23:841][640]LogSavePackage: Moving output files for package: /Game/Assets/HiyoshiMap
+[2024.10.11-06.49.23:841][640]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/HiyoshiMapF1212DDF4FA44E07092482BE672328E4.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Content/Assets/HiyoshiMap.umap'
+[2024.10.11-06.49.23:859][640]LogFileHelpers: Saving map 'HiyoshiMap' took 0.191
+[2024.10.11-06.49.23:859][640]Cmd: MAP LOAD FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/HiyoshiMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.11-06.49.23:859][640]LightingResults: New page: Lighting Build
+[2024.10.11-06.49.23:859][640]LoadErrors: New page: Loading map: HiyoshiMap.umap
+[2024.10.11-06.49.23:872][640]LogWorld: UWorld::CleanupWorld for HiyoshiMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-06.49.23:873][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-06.49.23:873][640]MapCheck: New page: Map Check
+[2024.10.11-06.49.23:873][640]LightingResults: New page: Lighting Build
+[2024.10.11-06.49.23:876][640]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.11-06.49.23:877][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.10.11-06.49.23:881][640]LogAudio: Display: Audio Device (ID: 1) registered with world 'HiyoshiMap'.
+[2024.10.11-06.49.23:881][640]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-06.49.23:881][640]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-06.49.23:882][640]LogAIModule: Creating AISystem for world HiyoshiMap
+[2024.10.11-06.49.23:938][640]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.11-06.49.23:944][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.10.11-06.49.23:947][640]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.11-06.49.23:947][640]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.107ms to complete.
+[2024.10.11-06.49.23:949][640]AssetCheck: New page: Asset Save: HiyoshiMap
+[2024.10.11-06.49.23:950][640]LogContentValidation: Display: Validating /Script/Engine.World /Game/Assets/HiyoshiMap.HiyoshiMap
+[2024.10.11-06.51.32:879][130]LogDerivedDataCache: C:/Users/vantan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.393 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4759 files in 6341 folders with total size 980 MiB.
