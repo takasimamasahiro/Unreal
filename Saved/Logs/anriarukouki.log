@@ -1227,3 +1227,1310 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.11-06.49.23:949][640]AssetCheck: New page: Asset Save: HiyoshiMap
 [2024.10.11-06.49.23:950][640]LogContentValidation: Display: Validating /Script/Engine.World /Game/Assets/HiyoshiMap.HiyoshiMap
 [2024.10.11-06.51.32:879][130]LogDerivedDataCache: C:/Users/vantan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.393 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4759 files in 6341 folders with total size 980 MiB.
+[2024.10.11-07.27.17:988][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.10.11-07.27.17:991][523]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/HiyoshiMap.HiyoshiMap
+[2024.10.11-07.27.17:991][523]Cmd: MAP LOAD FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/HiyoshiMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.11-07.27.17:991][523]LightingResults: New page: Lighting Build
+[2024.10.11-07.27.17:991][523]LoadErrors: New page: Loading map: HiyoshiMap.umap
+[2024.10.11-07.27.18:003][523]LogWorld: UWorld::CleanupWorld for HiyoshiMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-07.27.18:004][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-07.27.18:004][523]MapCheck: New page: Map Check
+[2024.10.11-07.27.18:004][523]LightingResults: New page: Lighting Build
+[2024.10.11-07.27.18:007][523]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.11-07.27.18:007][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.10.11-07.27.18:017][523]LogAudio: Display: Audio Device (ID: 1) registered with world 'HiyoshiMap'.
+[2024.10.11-07.27.18:017][523]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-07.27.18:017][523]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-07.27.18:017][523]LogAIModule: Creating AISystem for world HiyoshiMap
+[2024.10.11-07.27.18:071][523]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.11-07.27.18:075][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.10.11-07.27.18:079][523]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.11-07.27.18:079][523]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.095ms to complete.
+[2024.10.11-07.27.20:519][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.10.11-07.27.20:520][669]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/HiyoshiMap.HiyoshiMap
+[2024.10.11-07.27.20:520][669]Cmd: MAP LOAD FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/HiyoshiMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.11-07.27.20:520][669]LightingResults: New page: Lighting Build
+[2024.10.11-07.27.20:520][669]LoadErrors: New page: Loading map: HiyoshiMap.umap
+[2024.10.11-07.27.20:532][669]LogWorld: UWorld::CleanupWorld for HiyoshiMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-07.27.20:532][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-07.27.20:532][669]MapCheck: New page: Map Check
+[2024.10.11-07.27.20:532][669]LightingResults: New page: Lighting Build
+[2024.10.11-07.27.20:535][669]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.11-07.27.20:536][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.10.11-07.27.20:540][669]LogAudio: Display: Audio Device (ID: 1) registered with world 'HiyoshiMap'.
+[2024.10.11-07.27.20:540][669]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-07.27.20:540][669]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-07.27.20:540][669]LogAIModule: Creating AISystem for world HiyoshiMap
+[2024.10.11-07.27.20:582][669]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.11-07.27.20:588][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.10.11-07.27.20:590][669]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.11-07.27.20:590][669]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.093ms to complete.
+[2024.10.11-07.30.11:140][835]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Cliffs/SM_Cliff_2.SM_Cliff_2
+[2024.10.11-07.30.11:140][835]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Cliffs/SM_Cliff_2.SM_Cliff_2
+[2024.10.11-07.30.11:142][835]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Cliffs/SM_Cliff_2.SM_Cliff_2 as actor: StaticMeshActor /Game/Assets/HiyoshiMap.HiyoshiMap:PersistentLevel.StaticMeshActor_0
+[2024.10.11-07.30.11:248][836]LogShaderCompilers: Display: ================================================
+[2024.10.11-07.30.11:248][836]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.11-07.30.11:248][836]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2024.10.11-07.30.11:248][836]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2024.10.11-07.30.11:248][836]LogShaderCompilers: Display: RAM used: 89.38 KiB of 819.20 MiB budget. Usage: 0.01%
+[2024.10.11-07.30.11:248][836]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.11-07.30.11:248][836]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.10.11-07.30.11:248][836]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.10.11-07.30.11:248][836]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.10.11-07.30.11:248][836]LogShaderCompilers: Display: ================================================
+[2024.10.11-07.30.56:864][473]LogViewport: Scene viewport resized to 839x489, mode Windowed.
+[2024.10.11-07.30.58:089][534]LogViewport: Scene viewport resized to 839x845, mode Windowed.
+[2024.10.11-07.31.03:323][828]LogViewport: Scene viewport resized to 840x845, mode Windowed.
+[2024.10.11-07.31.03:341][829]LogViewport: Scene viewport resized to 845x845, mode Windowed.
+[2024.10.11-07.31.03:360][830]LogViewport: Scene viewport resized to 850x845, mode Windowed.
+[2024.10.11-07.31.03:377][831]LogViewport: Scene viewport resized to 860x845, mode Windowed.
+[2024.10.11-07.31.03:396][832]LogViewport: Scene viewport resized to 874x845, mode Windowed.
+[2024.10.11-07.31.03:415][833]LogViewport: Scene viewport resized to 887x845, mode Windowed.
+[2024.10.11-07.31.03:437][834]LogViewport: Scene viewport resized to 906x845, mode Windowed.
+[2024.10.11-07.31.03:471][835]LogViewport: Scene viewport resized to 930x845, mode Windowed.
+[2024.10.11-07.31.03:521][836]LogViewport: Scene viewport resized to 959x845, mode Windowed.
+[2024.10.11-07.31.03:543][837]LogViewport: Scene viewport resized to 974x845, mode Windowed.
+[2024.10.11-07.31.03:561][838]LogViewport: Scene viewport resized to 989x845, mode Windowed.
+[2024.10.11-07.31.03:613][839]LogViewport: Scene viewport resized to 1027x845, mode Windowed.
+[2024.10.11-07.31.03:635][840]LogViewport: Scene viewport resized to 1039x845, mode Windowed.
+[2024.10.11-07.31.03:687][841]LogViewport: Scene viewport resized to 1062x845, mode Windowed.
+[2024.10.11-07.31.03:710][842]LogViewport: Scene viewport resized to 1072x845, mode Windowed.
+[2024.10.11-07.31.03:752][843]LogViewport: Scene viewport resized to 1091x845, mode Windowed.
+[2024.10.11-07.31.03:775][844]LogViewport: Scene viewport resized to 1104x845, mode Windowed.
+[2024.10.11-07.31.03:821][845]LogViewport: Scene viewport resized to 1116x845, mode Windowed.
+[2024.10.11-07.31.04:130][863]LogViewport: Scene viewport resized to 1117x845, mode Windowed.
+[2024.10.11-07.31.05:182][924]LogViewport: Scene viewport resized to 1115x845, mode Windowed.
+[2024.10.11-07.31.05:200][925]LogViewport: Scene viewport resized to 1112x845, mode Windowed.
+[2024.10.11-07.31.05:218][926]LogViewport: Scene viewport resized to 1099x845, mode Windowed.
+[2024.10.11-07.31.05:236][927]LogViewport: Scene viewport resized to 1082x845, mode Windowed.
+[2024.10.11-07.31.05:256][928]LogViewport: Scene viewport resized to 1064x845, mode Windowed.
+[2024.10.11-07.31.05:275][929]LogViewport: Scene viewport resized to 1042x845, mode Windowed.
+[2024.10.11-07.31.05:295][930]LogViewport: Scene viewport resized to 1029x845, mode Windowed.
+[2024.10.11-07.31.05:316][931]LogViewport: Scene viewport resized to 1015x845, mode Windowed.
+[2024.10.11-07.31.05:334][932]LogViewport: Scene viewport resized to 1009x845, mode Windowed.
+[2024.10.11-07.31.05:356][933]LogViewport: Scene viewport resized to 1005x845, mode Windowed.
+[2024.10.11-07.31.05:376][934]LogViewport: Scene viewport resized to 998x845, mode Windowed.
+[2024.10.11-07.31.05:395][935]LogViewport: Scene viewport resized to 983x845, mode Windowed.
+[2024.10.11-07.31.05:416][936]LogViewport: Scene viewport resized to 967x845, mode Windowed.
+[2024.10.11-07.31.05:439][937]LogViewport: Scene viewport resized to 953x845, mode Windowed.
+[2024.10.11-07.31.05:456][938]LogViewport: Scene viewport resized to 948x845, mode Windowed.
+[2024.10.11-07.31.05:492][940]LogViewport: Scene viewport resized to 946x845, mode Windowed.
+[2024.10.11-07.31.05:558][944]LogViewport: Scene viewport resized to 945x845, mode Windowed.
+[2024.10.11-07.31.05:577][945]LogViewport: Scene viewport resized to 944x845, mode Windowed.
+[2024.10.11-07.31.05:592][946]LogViewport: Scene viewport resized to 943x845, mode Windowed.
+[2024.10.11-07.31.05:611][947]LogViewport: Scene viewport resized to 939x845, mode Windowed.
+[2024.10.11-07.31.05:628][948]LogViewport: Scene viewport resized to 936x845, mode Windowed.
+[2024.10.11-07.31.05:649][949]LogViewport: Scene viewport resized to 934x845, mode Windowed.
+[2024.10.11-07.31.05:685][951]LogViewport: Scene viewport resized to 933x845, mode Windowed.
+[2024.10.11-07.31.05:703][952]LogViewport: Scene viewport resized to 932x845, mode Windowed.
+[2024.10.11-07.31.05:935][966]LogViewport: Scene viewport resized to 931x845, mode Windowed.
+[2024.10.11-07.31.05:952][967]LogViewport: Scene viewport resized to 929x845, mode Windowed.
+[2024.10.11-07.31.05:972][968]LogViewport: Scene viewport resized to 921x845, mode Windowed.
+[2024.10.11-07.31.05:989][969]LogViewport: Scene viewport resized to 913x845, mode Windowed.
+[2024.10.11-07.31.06:009][970]LogViewport: Scene viewport resized to 907x845, mode Windowed.
+[2024.10.11-07.31.06:030][971]LogViewport: Scene viewport resized to 904x845, mode Windowed.
+[2024.10.11-07.31.06:283][986]LogViewport: Scene viewport resized to 905x845, mode Windowed.
+[2024.10.11-07.31.06:301][987]LogViewport: Scene viewport resized to 906x845, mode Windowed.
+[2024.10.11-07.31.06:335][989]LogViewport: Scene viewport resized to 910x845, mode Windowed.
+[2024.10.11-07.31.06:368][991]LogViewport: Scene viewport resized to 913x845, mode Windowed.
+[2024.10.11-07.31.06:402][993]LogViewport: Scene viewport resized to 915x845, mode Windowed.
+[2024.10.11-07.31.06:419][994]LogViewport: Scene viewport resized to 916x845, mode Windowed.
+[2024.10.11-07.31.06:435][995]LogViewport: Scene viewport resized to 918x845, mode Windowed.
+[2024.10.11-07.31.06:453][996]LogViewport: Scene viewport resized to 919x845, mode Windowed.
+[2024.10.11-07.31.06:469][997]LogViewport: Scene viewport resized to 921x845, mode Windowed.
+[2024.10.11-07.31.06:486][998]LogViewport: Scene viewport resized to 924x845, mode Windowed.
+[2024.10.11-07.31.06:505][999]LogViewport: Scene viewport resized to 929x845, mode Windowed.
+[2024.10.11-07.31.06:526][  0]LogViewport: Scene viewport resized to 933x845, mode Windowed.
+[2024.10.11-07.31.06:547][  1]LogViewport: Scene viewport resized to 935x845, mode Windowed.
+[2024.10.11-07.31.06:568][  2]LogViewport: Scene viewport resized to 938x845, mode Windowed.
+[2024.10.11-07.31.06:587][  3]LogViewport: Scene viewport resized to 946x845, mode Windowed.
+[2024.10.11-07.31.06:606][  4]LogViewport: Scene viewport resized to 955x845, mode Windowed.
+[2024.10.11-07.31.06:627][  5]LogViewport: Scene viewport resized to 964x845, mode Windowed.
+[2024.10.11-07.31.06:646][  6]LogViewport: Scene viewport resized to 965x845, mode Windowed.
+[2024.10.11-07.31.08:677][127]LogViewport: Scene viewport resized to 966x845, mode Windowed.
+[2024.10.11-07.31.08:695][128]LogViewport: Scene viewport resized to 967x845, mode Windowed.
+[2024.10.11-07.31.08:711][129]LogViewport: Scene viewport resized to 971x845, mode Windowed.
+[2024.10.11-07.31.08:731][130]LogViewport: Scene viewport resized to 975x845, mode Windowed.
+[2024.10.11-07.31.08:752][131]LogViewport: Scene viewport resized to 977x845, mode Windowed.
+[2024.10.11-07.31.08:769][132]LogViewport: Scene viewport resized to 983x845, mode Windowed.
+[2024.10.11-07.31.08:789][133]LogViewport: Scene viewport resized to 988x845, mode Windowed.
+[2024.10.11-07.31.08:807][134]LogViewport: Scene viewport resized to 992x845, mode Windowed.
+[2024.10.11-07.31.08:826][135]LogViewport: Scene viewport resized to 995x845, mode Windowed.
+[2024.10.11-07.31.08:879][138]LogViewport: Scene viewport resized to 996x845, mode Windowed.
+[2024.10.11-07.31.08:897][139]LogViewport: Scene viewport resized to 998x845, mode Windowed.
+[2024.10.11-07.31.08:913][140]LogViewport: Scene viewport resized to 999x845, mode Windowed.
+[2024.10.11-07.31.08:982][144]LogViewport: Scene viewport resized to 1002x845, mode Windowed.
+[2024.10.11-07.31.09:147][154]LogViewport: Scene viewport resized to 1003x845, mode Windowed.
+[2024.10.11-07.31.09:166][155]LogViewport: Scene viewport resized to 1004x845, mode Windowed.
+[2024.10.11-07.31.09:183][156]LogViewport: Scene viewport resized to 1006x845, mode Windowed.
+[2024.10.11-07.31.09:202][157]LogViewport: Scene viewport resized to 1008x845, mode Windowed.
+[2024.10.11-07.31.09:222][158]LogViewport: Scene viewport resized to 1010x845, mode Windowed.
+[2024.10.11-07.31.09:305][163]LogViewport: Scene viewport resized to 1011x845, mode Windowed.
+[2024.10.11-07.31.09:789][192]LogViewport: Scene viewport resized to 1010x845, mode Windowed.
+[2024.10.11-07.31.09:807][193]LogViewport: Scene viewport resized to 1008x845, mode Windowed.
+[2024.10.11-07.31.45:623][294]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Cliffs/SM_Cliff_3.SM_Cliff_3
+[2024.10.11-07.31.45:623][294]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Cliffs/SM_Cliff_3.SM_Cliff_3
+[2024.10.11-07.31.45:624][294]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Cliffs/SM_Cliff_3.SM_Cliff_3 as actor: StaticMeshActor /Game/Assets/HiyoshiMap.HiyoshiMap:PersistentLevel.StaticMeshActor_2
+[2024.10.11-07.31.50:585][571]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Cliffs/SM_Cliff_1.SM_Cliff_1
+[2024.10.11-07.31.50:585][571]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Cliffs/SM_Cliff_1.SM_Cliff_1
+[2024.10.11-07.31.50:585][571]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Cliffs/SM_Cliff_1.SM_Cliff_1 as actor: StaticMeshActor /Game/Assets/HiyoshiMap.HiyoshiMap:PersistentLevel.StaticMeshActor_3
+[2024.10.11-07.31.56:957][921]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Containers/SM_Barrel_2.SM_Barrel_2
+[2024.10.11-07.31.56:957][921]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Containers/SM_Barrel_2.SM_Barrel_2
+[2024.10.11-07.31.56:957][921]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Containers/SM_Barrel_2.SM_Barrel_2 as actor: StaticMeshActor /Game/Assets/HiyoshiMap.HiyoshiMap:PersistentLevel.StaticMeshActor_4
+[2024.10.11-07.32.00:774][133]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Containers/SM_Barrel_1.SM_Barrel_1
+[2024.10.11-07.32.01:060][133]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-07.32.01:060][133]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-07.32.01:986][133]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2024.10.11-07.32.04:051][233]LogSlate: Window 'SM_Barrel_1' being destroyed
+[2024.10.11-07.32.04:061][233]LogSlate: Window 'SM_Barrel_1' being destroyed
+[2024.10.11-07.32.04:118][233]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-07.32.04:118][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-07.32.10:182][578]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DecalsPlanes/SM_GraphicalDecal_004.SM_GraphicalDecal_004
+[2024.10.11-07.32.10:183][578]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DecalsPlanes/SM_GraphicalDecal_004.SM_GraphicalDecal_004
+[2024.10.11-07.32.10:183][578]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DecalsPlanes/SM_GraphicalDecal_004.SM_GraphicalDecal_004 as actor: StaticMeshActor /Game/Assets/HiyoshiMap.HiyoshiMap:PersistentLevel.StaticMeshActor_5
+[2024.10.11-07.32.23:039][311]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DirtPile_2/SM_DirtPile_2.SM_DirtPile_2
+[2024.10.11-07.32.23:057][311]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/ModularSciFi/StaticMeshes/DirtPile_2/SM_DirtPile_2) ...
+[2024.10.11-07.32.23:237][311]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-07.32.23:237][311]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-07.32.23:793][311]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2024.10.11-07.32.32:489][785]LogSlate: Window 'SM_DirtPile_2' being destroyed
+[2024.10.11-07.32.32:500][785]LogSlate: Window 'SM_DirtPile_2' being destroyed
+[2024.10.11-07.32.32:531][785]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-07.32.32:531][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-07.32.48:080][673]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/HardSurfaceEnvironment/Base_2/SM_PistonBase_2_Merged.SM_PistonBase_2_Merged
+[2024.10.11-07.32.48:097][673]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/ModularSciFi/StaticMeshes/HardSurfaceEnvironment/Base_2/SM_PistonBase_2_Merged) ...
+[2024.10.11-07.32.48:352][673]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-07.32.48:352][673]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-07.32.48:894][673]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2024.10.11-07.32.56:732][103]LogSlate: Window 'SM_PistonBase_2_Merged' being destroyed
+[2024.10.11-07.32.56:742][103]LogSlate: Window 'SM_PistonBase_2_Merged' being destroyed
+[2024.10.11-07.32.56:773][103]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-07.32.56:773][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-07.33.58:749][713]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/HardSurfaceEnvironment/WallPanel_1/SM_WallPanel_1_Merged.SM_WallPanel_1_Merged
+[2024.10.11-07.33.58:767][713]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/ModularSciFi/StaticMeshes/HardSurfaceEnvironment/WallPanel_1/SM_WallPanel_1_Merged) ...
+[2024.10.11-07.33.58:897][713]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-07.33.58:897][713]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-07.33.59:398][713]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2024.10.11-07.34.01:706][840]LogSlate: Window 'SM_WallPanel_1_Merged' being destroyed
+[2024.10.11-07.34.01:715][840]LogSlate: Window 'SM_WallPanel_1_Merged' being destroyed
+[2024.10.11-07.34.01:747][840]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-07.34.01:747][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-07.34.09:677][251]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/HardSurfaceEnvironment/Construction_3/SM_Construction_3_Merged.SM_Construction_3_Merged
+[2024.10.11-07.34.09:695][251]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/ModularSciFi/StaticMeshes/HardSurfaceEnvironment/Construction_3/SM_Construction_3_Merged) ...
+[2024.10.11-07.34.09:869][251]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-07.34.09:869][251]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-07.34.10:549][251]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2024.10.11-07.34.10:797][252]LogShaderCompilers: Display: ================================================
+[2024.10.11-07.34.10:797][252]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.11-07.34.10:797][252]LogShaderCompilers: Display: Total job queries 73, among them cache hits 30 (41.10%)
+[2024.10.11-07.34.10:797][252]LogShaderCompilers: Display: Tracking 43 distinct input hashes that result in 37 distinct outputs (86.05%)
+[2024.10.11-07.34.10:797][252]LogShaderCompilers: Display: RAM used: 0.99 MiB of 819.20 MiB budget. Usage: 0.12%
+[2024.10.11-07.34.10:798][252]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.11-07.34.10:798][252]LogShaderCompilers: Display: Shaders Compiled: 5
+[2024.10.11-07.34.10:798][252]LogShaderCompilers: Display: Jobs assigned 5, completed 5 (100%)
+[2024.10.11-07.34.10:798][252]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.07 s
+[2024.10.11-07.34.10:798][252]LogShaderCompilers: Display: Job execution time: average 2.16 s, max 2.38 s
+[2024.10.11-07.34.10:798][252]LogShaderCompilers: Display: Job life time (pending + execution): average 2.20 s, max 2.41
+[2024.10.11-07.34.10:798][252]LogShaderCompilers: Display: Shader code size: average 32.395 KiB, min 30.176 KiB, max 35.582 KiB
+[2024.10.11-07.34.10:798][252]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.41 s
+[2024.10.11-07.34.10:798][252]LogShaderCompilers: Display: Jobs were issued in 5 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.11-07.34.10:798][252]LogShaderCompilers: Display: Average processing rate: 2.07 jobs/sec
+[2024.10.11-07.34.10:798][252]LogShaderCompilers: Display: Total thread time: 5.626 s
+[2024.10.11-07.34.10:798][252]LogShaderCompilers: Display: Total thread preprocess time: 4.751 s
+[2024.10.11-07.34.10:798][252]LogShaderCompilers: Display: Percentage time preprocessing: 84.44%
+[2024.10.11-07.34.10:798][252]LogShaderCompilers: Display: Effective parallelization: 2.33 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.10.11-07.34.10:798][252]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.10.11-07.34.10:798][252]LogShaderCompilers: Display:                                                FMeshDecalsVS (compiled    1 times, average 1.23 sec, max 1.23 sec, min 1.23 sec)
+[2024.10.11-07.34.10:798][252]LogShaderCompilers: Display:                                        FMeshDecalsEmissivePS (compiled    1 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2024.10.11-07.34.10:798][252]LogShaderCompilers: Display:                                                FMeshDecalsPS (compiled    1 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2024.10.11-07.34.10:798][252]LogShaderCompilers: Display:                                FMeshDecalsAmbientOcclusionPS (compiled    2 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2024.10.11-07.34.10:798][252]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.10.11-07.34.10:798][252]LogShaderCompilers: Display:                                FMeshDecalsAmbientOcclusionPS - 39.09% of total time (compiled    2 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2024.10.11-07.34.10:798][252]LogShaderCompilers: Display:                                                FMeshDecalsVS - 21.82% of total time (compiled    1 times, average 1.23 sec, max 1.23 sec, min 1.23 sec)
+[2024.10.11-07.34.10:798][252]LogShaderCompilers: Display:                                        FMeshDecalsEmissivePS - 19.55% of total time (compiled    1 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2024.10.11-07.34.10:798][252]LogShaderCompilers: Display:                                                FMeshDecalsPS - 19.55% of total time (compiled    1 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2024.10.11-07.34.10:798][252]LogShaderCompilers: Display: ================================================
+[2024.10.11-07.34.17:619][631]LogSlate: Window 'SM_Construction_3_Merged' being destroyed
+[2024.10.11-07.34.17:627][631]LogSlate: Window 'SM_Construction_3_Merged' being destroyed
+[2024.10.11-07.34.17:664][631]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-07.34.17:664][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-07.34.45:882][259]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/HardSurfaceEnvironment/WallBracket/SM_WallBracket_Merged.SM_WallBracket_Merged
+[2024.10.11-07.34.45:900][259]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/ModularSciFi/StaticMeshes/HardSurfaceEnvironment/WallBracket/SM_WallBracket_Merged) ...
+[2024.10.11-07.34.46:054][259]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-07.34.46:054][259]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-07.34.46:577][259]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2024.10.11-07.34.52:033][573]LogSlate: Window 'SM_WallBracket_Merged' being destroyed
+[2024.10.11-07.34.52:041][573]LogSlate: Window 'SM_WallBracket_Merged' being destroyed
+[2024.10.11-07.34.52:076][573]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-07.34.52:076][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-07.34.58:203][903]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/HardSurfaceEnvironment/WallPanel_1/SM_WallPanel_1_Merged.SM_WallPanel_1_Merged
+[2024.10.11-07.34.58:446][903]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-07.34.58:446][903]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-07.34.59:022][903]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2024.10.11-07.35.08:301][442]LogSlate: Window 'SM_WallPanel_1_Merged' being destroyed
+[2024.10.11-07.35.08:309][442]LogSlate: Window 'SM_WallPanel_1_Merged' being destroyed
+[2024.10.11-07.35.08:341][442]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-07.35.08:341][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-07.35.31:314][772]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Cliffs/SM_Cliff_1.SM_Cliff_1
+[2024.10.11-07.35.31:314][772]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Cliffs/SM_Cliff_1.SM_Cliff_1
+[2024.10.11-07.35.31:315][772]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Cliffs/SM_Cliff_1.SM_Cliff_1 as actor: StaticMeshActor /Game/Assets/HiyoshiMap.HiyoshiMap:PersistentLevel.StaticMeshActor_6
+[2024.10.11-07.35.33:518][904]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Cliffs/SM_Cliff_1.SM_Cliff_1
+[2024.10.11-07.35.33:518][904]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Cliffs/SM_Cliff_1.SM_Cliff_1
+[2024.10.11-07.35.33:522][904]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Cliffs/SM_Cliff_1.SM_Cliff_1 as actor: StaticMeshActor /Game/Assets/HiyoshiMap.HiyoshiMap:PersistentLevel.StaticMeshActor_7
+[2024.10.11-07.35.36:738][ 82]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Cliffs/SM_Cliff_2.SM_Cliff_2
+[2024.10.11-07.35.36:738][ 82]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Cliffs/SM_Cliff_2.SM_Cliff_2
+[2024.10.11-07.35.36:738][ 82]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Cliffs/SM_Cliff_2.SM_Cliff_2 as actor: StaticMeshActor /Game/Assets/HiyoshiMap.HiyoshiMap:PersistentLevel.StaticMeshActor_8
+[2024.10.11-07.35.40:692][319]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Cliffs/SM_Cliff_2.SM_Cliff_2
+[2024.10.11-07.35.40:692][319]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Cliffs/SM_Cliff_2.SM_Cliff_2
+[2024.10.11-07.35.40:693][319]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Cliffs/SM_Cliff_2.SM_Cliff_2 as actor: StaticMeshActor /Game/Assets/HiyoshiMap.HiyoshiMap:PersistentLevel.StaticMeshActor_9
+[2024.10.11-07.35.41:453][350]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Cliffs/SM_Cliff_3.SM_Cliff_3
+[2024.10.11-07.35.41:453][350]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Cliffs/SM_Cliff_3.SM_Cliff_3
+[2024.10.11-07.35.41:454][350]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Cliffs/SM_Cliff_3.SM_Cliff_3 as actor: StaticMeshActor /Game/Assets/HiyoshiMap.HiyoshiMap:PersistentLevel.StaticMeshActor_10
+[2024.10.11-07.36.01:397][485]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DirtPile_1/SM_DirtPile_1.SM_DirtPile_1
+[2024.10.11-07.36.01:397][485]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DirtPile_1/SM_DirtPile_1.SM_DirtPile_1
+[2024.10.11-07.36.01:397][485]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DirtPile_1/SM_DirtPile_1.SM_DirtPile_1 as actor: StaticMeshActor /Game/Assets/HiyoshiMap.HiyoshiMap:PersistentLevel.StaticMeshActor_11
+[2024.10.11-07.36.03:007][577]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DirtPile_1/SM_DirtPile_1.SM_DirtPile_1
+[2024.10.11-07.36.03:007][577]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DirtPile_1/SM_DirtPile_1.SM_DirtPile_1
+[2024.10.11-07.36.03:009][577]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DirtPile_1/SM_DirtPile_1.SM_DirtPile_1 as actor: StaticMeshActor /Game/Assets/HiyoshiMap.HiyoshiMap:PersistentLevel.StaticMeshActor_12
+[2024.10.11-07.36.18:817][492]LogSlate: Took 0.006887 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.10.11-07.36.59:408][645]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DirtPile_2/SM_DirtPile_2.SM_DirtPile_2
+[2024.10.11-07.36.59:408][645]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DirtPile_2/SM_DirtPile_2.SM_DirtPile_2
+[2024.10.11-07.36.59:408][645]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DirtPile_2/SM_DirtPile_2.SM_DirtPile_2 as actor: StaticMeshActor /Game/Assets/HiyoshiMap.HiyoshiMap:PersistentLevel.StaticMeshActor_13
+[2024.10.11-07.37.03:095][866]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DirtPile_2/SM_DirtPile_2.SM_DirtPile_2
+[2024.10.11-07.37.03:095][866]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DirtPile_2/SM_DirtPile_2.SM_DirtPile_2
+[2024.10.11-07.37.03:096][866]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DirtPile_2/SM_DirtPile_2.SM_DirtPile_2 as actor: StaticMeshActor /Game/Assets/HiyoshiMap.HiyoshiMap:PersistentLevel.StaticMeshActor_14
+[2024.10.11-07.37.08:373][124]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.10.11-07.37.35:030][507]Cmd: DELETE
+[2024.10.11-07.37.35:030][507]Cmd: ACTOR DELETE
+[2024.10.11-07.37.35:054][507]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.11-07.37.35:073][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.10.11-07.37.35:078][507]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2024.10.11-07.37.42:513][853]Cmd: DELETE
+[2024.10.11-07.37.42:513][853]Cmd: ACTOR DELETE
+[2024.10.11-07.37.42:515][853]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.11-07.37.42:520][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.10.11-07.37.42:523][853]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2024.10.11-07.38.10:025][459]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DirtPile_2/SM_DirtPile_2.SM_DirtPile_2
+[2024.10.11-07.38.10:026][459]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DirtPile_2/SM_DirtPile_2.SM_DirtPile_2
+[2024.10.11-07.38.10:026][459]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DirtPile_2/SM_DirtPile_2.SM_DirtPile_2 as actor: StaticMeshActor /Game/Assets/HiyoshiMap.HiyoshiMap:PersistentLevel.StaticMeshActor_15
+[2024.10.11-07.38.11:000][517]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DirtPile_2/SM_DirtPile_2.SM_DirtPile_2
+[2024.10.11-07.38.11:000][517]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DirtPile_2/SM_DirtPile_2.SM_DirtPile_2
+[2024.10.11-07.38.11:001][517]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DirtPile_2/SM_DirtPile_2.SM_DirtPile_2 as actor: StaticMeshActor /Game/Assets/HiyoshiMap.HiyoshiMap:PersistentLevel.StaticMeshActor_16
+[2024.10.11-07.39.13:124][108]Cmd: DELETE
+[2024.10.11-07.39.13:124][108]Cmd: ACTOR DELETE
+[2024.10.11-07.39.13:126][108]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.11-07.39.13:132][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.10.11-07.39.13:138][108]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2024.10.11-07.39.39:656][646]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Rocks/SM_Rock_6.SM_Rock_6
+[2024.10.11-07.39.39:656][646]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Rocks/SM_Rock_6.SM_Rock_6
+[2024.10.11-07.39.39:657][646]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Rocks/SM_Rock_6.SM_Rock_6 as actor: StaticMeshActor /Game/Assets/HiyoshiMap.HiyoshiMap:PersistentLevel.StaticMeshActor_17
+[2024.10.11-07.40.28:862][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.10.11-07.40.28:870][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/HiyoshiMap" FILE="../../../../../../Users/vantan/Documents/Unreal/Saved/Autosaves/Game/Assets/HiyoshiMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.10.11-07.40.28:882][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/HiyoshiMap_Auto1
+[2024.10.11-07.40.28:882][372]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/HiyoshiMap_Auto175732396426CF5234967EF9701C56556.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Saved/Autosaves/Game/Assets/HiyoshiMap_Auto1.umap'
+[2024.10.11-07.40.28:883][372]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/vantan/Documents/Unreal/Saved/Autosaves/Game/Assets/HiyoshiMap_Auto1.umap is in the /Temp path, will not scan.
+[2024.10.11-07.40.28:883][372]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Assets/HiyoshiMap_Auto1 is in the /Temp path, will not scan.
+[2024.10.11-07.40.28:883][372]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Assets/HiyoshiMap_Auto1 is in the /Temp path, will not scan.
+[2024.10.11-07.40.28:883][372]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/HiyoshiMap' took 0.029
+[2024.10.11-07.40.28:883][372]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2024.10.11-07.40.34:455][680]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.11-07.40.34:467][680]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.11-07.40.34:486][681]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.10.11-07.40.41:412][ 90]LogContentBrowser: Attempting asset rename: NewFolder -> Hiyoshi
+[2024.10.11-07.40.41:413][ 90]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.11-07.43.04:176][423]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.10.11-07.44.11:544][540]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/ShareMeshes/SM_SkyboxSphere.SM_SkyboxSphere
+[2024.10.11-07.44.11:544][540]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/ShareMeshes/SM_SkyboxSphere.SM_SkyboxSphere
+[2024.10.11-07.44.11:545][540]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/ShareMeshes/SM_SkyboxSphere.SM_SkyboxSphere as actor: StaticMeshActor /Game/Assets/HiyoshiMap.HiyoshiMap:PersistentLevel.StaticMeshActor_18
+[2024.10.11-07.44.42:900][343]Cmd: TRANSACTION UNDO
+[2024.10.11-07.44.42:900][343]LogEditorTransaction: Undo Clicking on Actors
+[2024.10.11-07.46.02:643][849]LogMeshUtilities: Finished distance field build in 1.5s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 1322 triangles, SM_SkySphere
+[2024.10.11-07.47.07:686][630]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/ShareMeshes/SM_SkyboxSphere.SM_SkyboxSphere
+[2024.10.11-07.47.07:886][630]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-07.47.07:886][630]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-07.47.08:444][630]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2024.10.11-07.47.14:123][960]LogSlate: Window 'SM_SkyboxSphere' being destroyed
+[2024.10.11-07.47.14:131][960]LogSlate: Window 'SM_SkyboxSphere' being destroyed
+[2024.10.11-07.47.14:166][960]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-07.47.14:167][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-07.47.18:393][206]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-07.47.18:404][206]LogMaterial: Warning: [AssetLog] C:\Users\vantan\Documents\Unreal\Content\Assets\ModularSciFi\MaterialsFunctions\M_ObjectAlignedTexture.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node ComponentMask) Not enough components in (Local45: float3) for component mask 0001
+
+[2024.10.11-07.47.25:745][640]LogViewport: Scene viewport resized to 1006x845, mode Windowed.
+[2024.10.11-07.47.25:764][641]LogViewport: Scene viewport resized to 1004x845, mode Windowed.
+[2024.10.11-07.47.25:787][642]LogViewport: Scene viewport resized to 1002x845, mode Windowed.
+[2024.10.11-07.47.25:810][643]LogViewport: Scene viewport resized to 994x845, mode Windowed.
+[2024.10.11-07.47.25:830][644]LogViewport: Scene viewport resized to 988x845, mode Windowed.
+[2024.10.11-07.47.25:848][645]LogViewport: Scene viewport resized to 983x845, mode Windowed.
+[2024.10.11-07.47.25:870][646]LogViewport: Scene viewport resized to 981x845, mode Windowed.
+[2024.10.11-07.47.25:891][647]LogViewport: Scene viewport resized to 980x845, mode Windowed.
+[2024.10.11-07.47.25:911][648]LogViewport: Scene viewport resized to 977x845, mode Windowed.
+[2024.10.11-07.47.25:932][649]LogViewport: Scene viewport resized to 976x845, mode Windowed.
+[2024.10.11-07.47.25:952][650]LogViewport: Scene viewport resized to 973x845, mode Windowed.
+[2024.10.11-07.47.25:972][651]LogViewport: Scene viewport resized to 972x845, mode Windowed.
+[2024.10.11-07.47.26:003][652]LogViewport: Scene viewport resized to 967x845, mode Windowed.
+[2024.10.11-07.47.26:018][653]LogViewport: Scene viewport resized to 965x845, mode Windowed.
+[2024.10.11-07.47.26:041][654]LogViewport: Scene viewport resized to 960x845, mode Windowed.
+[2024.10.11-07.47.26:065][655]LogViewport: Scene viewport resized to 957x845, mode Windowed.
+[2024.10.11-07.47.26:083][656]LogViewport: Scene viewport resized to 953x845, mode Windowed.
+[2024.10.11-07.47.26:104][657]LogViewport: Scene viewport resized to 945x845, mode Windowed.
+[2024.10.11-07.47.26:125][658]LogViewport: Scene viewport resized to 942x845, mode Windowed.
+[2024.10.11-07.47.26:147][659]LogViewport: Scene viewport resized to 938x845, mode Windowed.
+[2024.10.11-07.47.26:167][660]LogViewport: Scene viewport resized to 936x845, mode Windowed.
+[2024.10.11-07.47.26:187][661]LogViewport: Scene viewport resized to 933x845, mode Windowed.
+[2024.10.11-07.47.26:210][662]LogViewport: Scene viewport resized to 930x845, mode Windowed.
+[2024.10.11-07.47.26:228][663]LogViewport: Scene viewport resized to 927x845, mode Windowed.
+[2024.10.11-07.47.26:254][664]LogViewport: Scene viewport resized to 926x845, mode Windowed.
+[2024.10.11-07.47.26:273][665]LogViewport: Scene viewport resized to 925x845, mode Windowed.
+[2024.10.11-07.47.26:293][666]LogViewport: Scene viewport resized to 924x845, mode Windowed.
+[2024.10.11-07.47.26:313][667]LogViewport: Scene viewport resized to 923x845, mode Windowed.
+[2024.10.11-07.47.26:333][668]LogViewport: Scene viewport resized to 922x845, mode Windowed.
+[2024.10.11-07.47.26:351][669]LogViewport: Scene viewport resized to 921x845, mode Windowed.
+[2024.10.11-07.47.26:389][671]LogViewport: Scene viewport resized to 918x845, mode Windowed.
+[2024.10.11-07.47.26:407][672]LogViewport: Scene viewport resized to 917x845, mode Windowed.
+[2024.10.11-07.47.26:424][673]LogViewport: Scene viewport resized to 916x845, mode Windowed.
+[2024.10.11-07.47.44:775][754]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.10.11-07.47.46:329][840]LogShaderCompilers: Display: ================================================
+[2024.10.11-07.47.46:329][840]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.11-07.47.46:329][840]LogShaderCompilers: Display: Total job queries 77, among them cache hits 32 (41.56%)
+[2024.10.11-07.47.46:329][840]LogShaderCompilers: Display: Tracking 44 distinct input hashes that result in 37 distinct outputs (84.09%)
+[2024.10.11-07.47.46:329][840]LogShaderCompilers: Display: RAM used: 1.01 MiB of 819.20 MiB budget. Usage: 0.12%
+[2024.10.11-07.47.46:329][840]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.11-07.47.46:329][840]LogShaderCompilers: Display: Shaders Compiled: 6
+[2024.10.11-07.47.46:329][840]LogShaderCompilers: Display: Jobs assigned 7, completed 6 (85.71%)
+[2024.10.11-07.47.46:329][840]LogShaderCompilers: Display: Average time worker was idle: 893.57 s
+[2024.10.11-07.47.46:329][840]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.10 s
+[2024.10.11-07.47.46:329][840]LogShaderCompilers: Display: Job execution time: average 2.06 s, max 2.38 s
+[2024.10.11-07.47.46:329][840]LogShaderCompilers: Display: Job life time (pending + execution): average 2.11 s, max 2.41
+[2024.10.11-07.47.46:329][840]LogShaderCompilers: Display: Shader code size: average 32.939 KiB, min 30.176 KiB, max 35.664 KiB
+[2024.10.11-07.47.46:329][840]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.03 s
+[2024.10.11-07.47.46:329][840]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.11-07.47.46:329][840]LogShaderCompilers: Display: Average processing rate: 1.49 jobs/sec
+[2024.10.11-07.47.46:329][840]LogShaderCompilers: Display: Total thread time: 6.677 s
+[2024.10.11-07.47.46:329][840]LogShaderCompilers: Display: Total thread preprocess time: 5.596 s
+[2024.10.11-07.47.46:329][840]LogShaderCompilers: Display: Percentage time preprocessing: 83.82%
+[2024.10.11-07.47.46:329][840]LogShaderCompilers: Display: Effective parallelization: 1.66 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.10.11-07.47.46:329][840]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.11-07.47.46:329][840]LogShaderCompilers: Display:                                                FMeshDecalsVS (compiled    1 times, average 1.23 sec, max 1.23 sec, min 1.23 sec)
+[2024.10.11-07.47.46:329][840]LogShaderCompilers: Display:                                        FMeshDecalsEmissivePS (compiled    1 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2024.10.11-07.47.46:329][840]LogShaderCompilers: Display:                                                FMeshDecalsPS (compiled    1 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2024.10.11-07.47.46:329][840]LogShaderCompilers: Display:                                FMeshDecalsAmbientOcclusionPS (compiled    2 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2024.10.11-07.47.46:330][840]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 1.05 sec, max 1.05 sec, min 1.05 sec)
+[2024.10.11-07.47.46:330][840]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.11-07.47.46:330][840]LogShaderCompilers: Display:                                FMeshDecalsAmbientOcclusionPS - 32.94% of total time (compiled    2 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2024.10.11-07.47.46:330][840]LogShaderCompilers: Display:                                                FMeshDecalsVS - 18.39% of total time (compiled    1 times, average 1.23 sec, max 1.23 sec, min 1.23 sec)
+[2024.10.11-07.47.46:330][840]LogShaderCompilers: Display:                                        FMeshDecalsEmissivePS - 16.47% of total time (compiled    1 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2024.10.11-07.47.46:330][840]LogShaderCompilers: Display:                                                FMeshDecalsPS - 16.47% of total time (compiled    1 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2024.10.11-07.47.46:330][840]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.74% of total time (compiled    1 times, average 1.05 sec, max 1.05 sec, min 1.05 sec)
+[2024.10.11-07.47.46:330][840]LogShaderCompilers: Display: ================================================
+[2024.10.11-07.49.20:535][948]Cmd: TRANSACTION UNDO
+[2024.10.11-07.49.20:535][948]LogEditorTransaction: Undo Replace component used material
+[2024.10.11-07.49.20:800][950]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18414092503957526347
+[2024.10.11-07.49.20:800][950]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2024.10.11-07.49.21:803][999]Cmd: TRANSACTION UNDO
+[2024.10.11-07.49.21:803][999]LogEditorTransaction: Undo Replace component used material
+[2024.10.11-07.49.22:446][ 32]Cmd: TRANSACTION UNDO
+[2024.10.11-07.49.22:446][ 32]LogEditorTransaction: Undo Replace component used material
+[2024.10.11-07.51.05:141][ 79]LogShaderCompilers: Display: ================================================
+[2024.10.11-07.51.05:141][ 79]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.11-07.51.05:141][ 79]LogShaderCompilers: Display: Total job queries 81, among them cache hits 36 (44.44%)
+[2024.10.11-07.51.05:141][ 79]LogShaderCompilers: Display: Tracking 45 distinct input hashes that result in 38 distinct outputs (84.44%)
+[2024.10.11-07.51.05:141][ 79]LogShaderCompilers: Display: RAM used: 1.04 MiB of 819.20 MiB budget. Usage: 0.13%
+[2024.10.11-07.51.05:141][ 79]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.11-07.51.05:141][ 79]LogShaderCompilers: Display: Shaders Compiled: 7
+[2024.10.11-07.51.05:141][ 79]LogShaderCompilers: Display: Jobs assigned 7, completed 7 (100%)
+[2024.10.11-07.51.05:141][ 79]LogShaderCompilers: Display: Average time worker was idle: 893.57 s
+[2024.10.11-07.51.05:142][ 79]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.10 s
+[2024.10.11-07.51.05:142][ 79]LogShaderCompilers: Display: Job execution time: average 2.04 s, max 2.38 s
+[2024.10.11-07.51.05:142][ 79]LogShaderCompilers: Display: Job life time (pending + execution): average 2.10 s, max 2.41
+[2024.10.11-07.51.05:142][ 79]LogShaderCompilers: Display: Shader code size: average 38.079 KiB, min 30.176 KiB, max 68.922 KiB
+[2024.10.11-07.51.05:142][ 79]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.45 s
+[2024.10.11-07.51.05:142][ 79]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.11-07.51.05:142][ 79]LogShaderCompilers: Display: Average processing rate: 1.57 jobs/sec
+[2024.10.11-07.51.05:142][ 79]LogShaderCompilers: Display: Total thread time: 8.166 s
+[2024.10.11-07.51.05:142][ 79]LogShaderCompilers: Display: Total thread preprocess time: 6.755 s
+[2024.10.11-07.51.05:142][ 79]LogShaderCompilers: Display: Percentage time preprocessing: 82.72%
+[2024.10.11-07.51.05:142][ 79]LogShaderCompilers: Display: Effective parallelization: 1.84 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.10.11-07.51.05:142][ 79]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.11-07.51.05:142][ 79]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 1.49 sec, max 1.49 sec, min 1.49 sec)
+[2024.10.11-07.51.05:142][ 79]LogShaderCompilers: Display:                                                FMeshDecalsVS (compiled    1 times, average 1.23 sec, max 1.23 sec, min 1.23 sec)
+[2024.10.11-07.51.05:142][ 79]LogShaderCompilers: Display:                                        FMeshDecalsEmissivePS (compiled    1 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2024.10.11-07.51.05:142][ 79]LogShaderCompilers: Display:                                                FMeshDecalsPS (compiled    1 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2024.10.11-07.51.05:142][ 79]LogShaderCompilers: Display:                                FMeshDecalsAmbientOcclusionPS (compiled    2 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2024.10.11-07.51.05:142][ 79]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.11-07.51.05:142][ 79]LogShaderCompilers: Display:                                FMeshDecalsAmbientOcclusionPS - 26.93% of total time (compiled    2 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2024.10.11-07.51.05:142][ 79]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 18.24% of total time (compiled    1 times, average 1.49 sec, max 1.49 sec, min 1.49 sec)
+[2024.10.11-07.51.05:142][ 79]LogShaderCompilers: Display:                                                FMeshDecalsVS - 15.03% of total time (compiled    1 times, average 1.23 sec, max 1.23 sec, min 1.23 sec)
+[2024.10.11-07.51.05:142][ 79]LogShaderCompilers: Display:                                        FMeshDecalsEmissivePS - 13.47% of total time (compiled    1 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2024.10.11-07.51.05:142][ 79]LogShaderCompilers: Display:                                                FMeshDecalsPS - 13.47% of total time (compiled    1 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2024.10.11-07.51.05:142][ 79]LogShaderCompilers: Display: ================================================
+[2024.10.11-07.51.26:445][328]LogContentBrowser: Attempting asset rename: M_Skybox -> M_MySkyBox
+[2024.10.11-07.51.26:668][328]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.11-07.51.28:514][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Hiyoshi/M_MySkyBox" FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/M_MySkyBox.uasset" SILENT=true
+[2024.10.11-07.51.28:526][328]LogSavePackage: Moving output files for package: /Game/Assets/Hiyoshi/M_MySkyBox
+[2024.10.11-07.51.28:526][328]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/M_MySkyBox2413DB574324FB399A39EB8BD4CF5524.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/M_MySkyBox.uasset'
+[2024.10.11-07.51.28:540][328]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.87 sec
+[2024.10.11-07.51.28:552][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.10.11-07.51.28:564][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.10.11-07.51.28:567][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.10.11-07.51.28:568][328]AssetCheck: New page: Asset Save: M_MySkyBox
+[2024.10.11-07.51.28:570][328]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Hiyoshi/M_MySkyBox.M_MySkyBox
+[2024.10.11-07.51.33:698][633]LogDerivedDataCache: C:/Users/vantan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:09.212 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4851 files in 6455 folders with total size 981 MiB.
+[2024.10.11-07.52.06:412][478]LogContentBrowser: Attempting asset rename: SM_SkyboxSphere -> SM_MySkyboxSphere
+[2024.10.11-07.52.06:441][478]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.11-07.52.06:577][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Hiyoshi/SM_MySkyboxSphere" FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/SM_MySkyboxSphere.uasset" SILENT=true
+[2024.10.11-07.52.06:591][478]LogSavePackage: Moving output files for package: /Game/Assets/Hiyoshi/SM_MySkyboxSphere
+[2024.10.11-07.52.06:591][478]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/SM_MySkyboxSphereD5175B6C4E6D864C65E92D8762225EBA.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/SM_MySkyboxSphere.uasset'
+[2024.10.11-07.52.06:606][478]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 2.03 sec)
+[2024.10.11-07.52.06:611][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.10.11-07.52.06:618][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.10.11-07.52.06:623][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.10.11-07.52.06:625][478]AssetCheck: New page: Asset Save: SM_MySkyboxSphere
+[2024.10.11-07.52.06:625][478]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Hiyoshi/SM_MySkyboxSphere.SM_MySkyboxSphere
+[2024.10.11-07.52.09:547][645]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hiyoshi/SM_MySkyboxSphere.SM_MySkyboxSphere
+[2024.10.11-07.52.09:547][645]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hiyoshi/SM_MySkyboxSphere.SM_MySkyboxSphere
+[2024.10.11-07.52.09:548][645]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hiyoshi/SM_MySkyboxSphere.SM_MySkyboxSphere as actor: StaticMeshActor /Game/Assets/HiyoshiMap.HiyoshiMap:PersistentLevel.StaticMeshActor_19
+[2024.10.11-07.52.51:834][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.10.11-07.52.51:837][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/HiyoshiMap" FILE="../../../../../../Users/vantan/Documents/Unreal/Saved/Autosaves/Game/Assets/HiyoshiMap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.10.11-07.52.51:845][792]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/HiyoshiMap_Auto2
+[2024.10.11-07.52.51:845][792]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/HiyoshiMap_Auto27878F49446BA3BC483E53CB6337E9059.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Saved/Autosaves/Game/Assets/HiyoshiMap_Auto2.umap'
+[2024.10.11-07.52.51:846][792]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/vantan/Documents/Unreal/Saved/Autosaves/Game/Assets/HiyoshiMap_Auto2.umap is in the /Temp path, will not scan.
+[2024.10.11-07.52.51:846][792]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Assets/HiyoshiMap_Auto2 is in the /Temp path, will not scan.
+[2024.10.11-07.52.51:846][792]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Assets/HiyoshiMap_Auto2 is in the /Temp path, will not scan.
+[2024.10.11-07.52.51:846][792]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/HiyoshiMap' took 0.015
+[2024.10.11-07.52.51:846][792]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.015
+[2024.10.11-07.56.13:914][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.10.11-07.56.16:339][562]LogSlate: Window 'Save Content' being destroyed
+[2024.10.11-07.56.16:371][562]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.11-07.56.16:472][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/HiyoshiMap" FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/HiyoshiMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.11-07.56.16:490][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.10.11-07.56.16:499][562]LogSavePackage: Moving output files for package: /Game/Assets/HiyoshiMap
+[2024.10.11-07.56.16:500][562]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/HiyoshiMapDA13E64748498BED7CB00C898A3B590A.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Content/Assets/HiyoshiMap.umap'
+[2024.10.11-07.56.16:506][562]LogFileHelpers: Saving map 'HiyoshiMap' took 0.034
+[2024.10.11-07.56.16:515][562]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 2.17 sec)
+[2024.10.11-07.56.19:535][562]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-07.56.19:626][562]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/ModularSciFi/Levels/LandscapePreview.LandscapePreview
+[2024.10.11-07.56.19:627][562]Cmd: MAP LOAD FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/ModularSciFi/Levels/LandscapePreview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.11-07.56.19:629][562]LightingResults: New page: Lighting Build
+[2024.10.11-07.56.19:629][562]LoadErrors: New page: Loading map: LandscapePreview.umap
+[2024.10.11-07.56.19:682][562]LogWorld: UWorld::CleanupWorld for HiyoshiMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-07.56.19:682][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-07.56.19:682][562]MapCheck: New page: Map Check
+[2024.10.11-07.56.19:683][562]LightingResults: New page: Lighting Build
+[2024.10.11-07.56.19:690][562]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.11-07.56.19:696][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.10.11-07.56.19:746][562]LogTexture: Display: Waiting for textures to be ready 28/273 (/Game/Assets/ModularSciFi/Levels/LandscapePreview) ...
+[2024.10.11-07.56.19:819][562]LogTexture: Display: Waiting for textures to be ready 81/273 (/Game/Assets/ModularSciFi/Levels/LandscapePreview) ...
+[2024.10.11-07.56.20:032][562]LogStaticMesh: Display: Waiting for static meshes to be ready 2/115 (/Game/Assets/ModularSciFi/StaticMeshes/Rocks/SM_Rock_2) ...
+[2024.10.11-07.56.20:223][562]LogWorld: UWorld::CleanupWorld for LandscapePreview, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-07.56.20:233][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-07.56.20:695][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.10.11-07.56.20:707][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.10.11-07.56.20:955][562]LogAudio: Display: Audio Device (ID: 1) registered with world 'LandscapePreview'.
+[2024.10.11-07.56.20:955][562]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-07.56.20:955][562]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-07.56.20:955][562]LogAIModule: Creating AISystem for world LandscapePreview
+[2024.10.11-07.56.21:633][562]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2024.10.11-07.56.21:870][562]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.236580s
+[2024.10.11-07.56.23:039][562]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.11-07.56.23:080][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.10.11-07.56.23:084][562]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.11-07.56.23:084][562]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.277ms to complete.
+[2024.10.11-07.56.23:087][562]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 3.460342s (1.460342s overbudget)
+[2024.10.11-07.56.23:103][562]AssetCheck: New page: Asset Save: HiyoshiMap
+[2024.10.11-07.56.24:126][562]LogShaderCompilers: Display: ================================================
+[2024.10.11-07.56.24:126][562]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.11-07.56.24:126][562]LogShaderCompilers: Display: Total job queries 107, among them cache hits 36 (33.64%)
+[2024.10.11-07.56.24:126][562]LogShaderCompilers: Display: Tracking 71 distinct input hashes that result in 56 distinct outputs (78.87%)
+[2024.10.11-07.56.24:126][562]LogShaderCompilers: Display: RAM used: 1.70 MiB of 819.20 MiB budget. Usage: 0.21%
+[2024.10.11-07.56.24:126][562]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.11-07.56.24:126][562]LogShaderCompilers: Display: Shaders Compiled: 25
+[2024.10.11-07.56.24:126][562]LogShaderCompilers: Display: Jobs assigned 25, completed 25 (100%)
+[2024.10.11-07.56.24:126][562]LogShaderCompilers: Display: Average time worker was idle: 371.65 s
+[2024.10.11-07.56.24:126][562]LogShaderCompilers: Display: Time job spent in pending queue: average 0.27 s, longest 0.92 s
+[2024.10.11-07.56.24:126][562]LogShaderCompilers: Display: Job execution time: average 1.05 s, max 2.38 s
+[2024.10.11-07.56.24:126][562]LogShaderCompilers: Display: Job life time (pending + execution): average 1.33 s, max 2.41
+[2024.10.11-07.56.24:126][562]LogShaderCompilers: Display: Shader code size: average 52.356 KiB, min 30.176 KiB, max 73.43 KiB
+[2024.10.11-07.56.24:126][562]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.09 s
+[2024.10.11-07.56.24:126][562]LogShaderCompilers: Display: Jobs were issued in 25 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.11-07.56.24:126][562]LogShaderCompilers: Display: Average processing rate: 4.10 jobs/sec
+[2024.10.11-07.56.24:126][562]LogShaderCompilers: Display: Total thread time: 16.589 s
+[2024.10.11-07.56.24:126][562]LogShaderCompilers: Display: Total thread preprocess time: 7.633 s
+[2024.10.11-07.56.24:126][562]LogShaderCompilers: Display: Percentage time preprocessing: 46.01%
+[2024.10.11-07.56.24:126][562]LogShaderCompilers: Display: Effective parallelization: 2.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.10.11-07.56.24:126][562]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.11-07.56.24:126][562]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 1.49 sec, max 1.49 sec, min 1.49 sec)
+[2024.10.11-07.56.24:126][562]LogShaderCompilers: Display:                                                FMeshDecalsVS (compiled    1 times, average 1.23 sec, max 1.23 sec, min 1.23 sec)
+[2024.10.11-07.56.24:126][562]LogShaderCompilers: Display:                                        FMeshDecalsEmissivePS (compiled    1 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2024.10.11-07.56.24:126][562]LogShaderCompilers: Display:                                                FMeshDecalsPS (compiled    1 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2024.10.11-07.56.24:127][562]LogShaderCompilers: Display:                                FMeshDecalsAmbientOcclusionPS (compiled    2 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2024.10.11-07.56.24:127][562]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.11-07.56.24:127][562]LogShaderCompilers: Display:                                FMeshDecalsAmbientOcclusionPS - 13.26% of total time (compiled    2 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2024.10.11-07.56.24:127][562]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.98% of total time (compiled    1 times, average 1.49 sec, max 1.49 sec, min 1.49 sec)
+[2024.10.11-07.56.24:127][562]LogShaderCompilers: Display:                                                FMeshDecalsVS - 7.40% of total time (compiled    1 times, average 1.23 sec, max 1.23 sec, min 1.23 sec)
+[2024.10.11-07.56.24:127][562]LogShaderCompilers: Display:                                        FMeshDecalsEmissivePS - 6.63% of total time (compiled    1 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2024.10.11-07.56.24:127][562]LogShaderCompilers: Display:                                                FMeshDecalsPS - 6.63% of total time (compiled    1 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2024.10.11-07.56.24:127][562]LogShaderCompilers: Display: ================================================
+[2024.10.11-07.56.28:194][566]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2024.10.11-07.56.29:738][573]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2024.10.11-07.56.31:009][622]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2024.10.11-07.56.31:109][622]LogD3D12RHI: Warning: Waited for PSO creation for 200.000000ms
+[2024.10.11-07.57.16:224][159]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-07.57.19:422][253]LogSlate: Window 'Message' being destroyed
+[2024.10.11-07.57.19:431][253]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+HiyoshiMap
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2024.10.11-07.57.19:444][253]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.11-07.57.19:543][253]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-07.57.19:544][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Hiyoshi/HiyoshiMap" FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/HiyoshiMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.11-07.57.19:547][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.10.11-07.57.19:558][253]LogSavePackage: Moving output files for package: /Game/Assets/Hiyoshi/HiyoshiMap
+[2024.10.11-07.57.19:558][253]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/HiyoshiMap77EF00E54C8DCF00BD404F95352D347C.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/HiyoshiMap.umap'
+[2024.10.11-07.57.19:567][253]LogFileHelpers: Saving map 'HiyoshiMap' took 0.025
+[2024.10.11-07.57.19:568][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/HiyoshiMap" FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/HiyoshiMap.umap" SILENT=true
+[2024.10.11-07.57.19:569][253]LogSavePackage: Moving output files for package: /Game/Assets/HiyoshiMap
+[2024.10.11-07.57.19:570][253]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/HiyoshiMap57C6FF9A41C214CAF9C3D980B63EB941.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Content/Assets/HiyoshiMap.umap'
+[2024.10.11-07.57.19:582][253]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 2.31 sec)
+[2024.10.11-07.57.19:634][253]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.11-07.57.19:634][253]LogContentValidation: Display: Validating /Script/Engine.World /Game/Assets/Hiyoshi/HiyoshiMap.HiyoshiMap
+[2024.10.11-07.57.19:634][253]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Assets/HiyoshiMap.HiyoshiMap
+[2024.10.11-07.57.22:387][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.10.11-07.57.22:391][392]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/Hiyoshi/HiyoshiMap.HiyoshiMap
+[2024.10.11-07.57.22:391][392]Cmd: MAP LOAD FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/HiyoshiMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.11-07.57.22:391][392]LightingResults: New page: Lighting Build
+[2024.10.11-07.57.22:391][392]LoadErrors: New page: Loading map: HiyoshiMap.umap
+[2024.10.11-07.57.22:464][392]LogWorld: UWorld::CleanupWorld for LandscapePreview, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-07.57.22:465][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-07.57.22:466][392]MapCheck: New page: Map Check
+[2024.10.11-07.57.22:466][392]LightingResults: New page: Lighting Build
+[2024.10.11-07.57.22:468][392]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.11-07.57.22:498][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.10.11-07.57.22:520][392]LogWorld: UWorld::CleanupWorld for HiyoshiMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-07.57.22:520][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-07.57.22:525][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.10.11-07.57.22:530][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.10.11-07.57.22:532][392]LogAudio: Display: Audio Device (ID: 1) registered with world 'HiyoshiMap'.
+[2024.10.11-07.57.22:532][392]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-07.57.22:532][392]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-07.57.22:533][392]LogAIModule: Creating AISystem for world HiyoshiMap
+[2024.10.11-07.57.22:596][392]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.11-07.57.22:601][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.10.11-07.57.22:605][392]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.11-07.57.22:605][392]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.104ms to complete.
+[2024.10.11-07.57.33:804][  8]Cmd: DELETE
+[2024.10.11-07.57.33:804][  8]Cmd: ACTOR DELETE
+[2024.10.11-07.57.33:806][  8]LogEditorActor: Deleted Actor: VolumetricCloud
+[2024.10.11-07.57.33:810][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.10.11-07.57.33:814][  8]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2024.10.11-07.58.50:054][464]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.11-07.58.50:144][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Hiyoshi/HiyoshiMap" FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/HiyoshiMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.11-07.58.50:162][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.10.11-07.58.50:175][464]LogSavePackage: Moving output files for package: /Game/Assets/Hiyoshi/HiyoshiMap
+[2024.10.11-07.58.50:176][464]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/HiyoshiMapD00E07D246ED35235099AB978B989D40.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/HiyoshiMap.umap'
+[2024.10.11-07.58.50:183][464]LogFileHelpers: Saving map 'HiyoshiMap' took 0.039
+[2024.10.11-07.58.50:195][464]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 2.45 sec)
+[2024.10.11-07.58.50:197][464]AssetCheck: New page: Asset Save: HiyoshiMap
+[2024.10.11-07.58.50:197][464]LogContentValidation: Display: Validating /Script/Engine.World /Game/Assets/Hiyoshi/HiyoshiMap.HiyoshiMap
+[2024.10.11-07.59.03:584][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.10.11-07.59.03:925][254]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-07.59.04:011][254]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/ModularSciFi/Levels/LandscapePreview.LandscapePreview
+[2024.10.11-07.59.04:012][254]Cmd: MAP LOAD FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/ModularSciFi/Levels/LandscapePreview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.11-07.59.04:012][254]LightingResults: New page: Lighting Build
+[2024.10.11-07.59.04:012][254]LoadErrors: New page: Loading map: LandscapePreview.umap
+[2024.10.11-07.59.04:026][254]LogWorld: UWorld::CleanupWorld for HiyoshiMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-07.59.04:027][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-07.59.04:027][254]MapCheck: New page: Map Check
+[2024.10.11-07.59.04:027][254]LightingResults: New page: Lighting Build
+[2024.10.11-07.59.04:033][254]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.11-07.59.04:034][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.10.11-07.59.04:169][254]LogWorld: UWorld::CleanupWorld for LandscapePreview, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-07.59.04:178][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-07.59.04:712][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.10.11-07.59.04:724][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.10.11-07.59.04:960][254]LogAudio: Display: Audio Device (ID: 1) registered with world 'LandscapePreview'.
+[2024.10.11-07.59.04:960][254]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-07.59.04:960][254]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-07.59.04:961][254]LogAIModule: Creating AISystem for world LandscapePreview
+[2024.10.11-07.59.06:015][254]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2024.10.11-07.59.06:756][254]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.11-07.59.06:797][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.10.11-07.59.06:800][254]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.11-07.59.06:801][254]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.284ms to complete.
+[2024.10.11-07.59.06:803][254]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 2.792505s (0.792505s overbudget)
+[2024.10.11-08.00.06:682][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.10.11-08.00.06:812][596]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-08.00.06:813][596]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/Hiyoshi/HiyoshiMap.HiyoshiMap
+[2024.10.11-08.00.06:814][596]Cmd: MAP LOAD FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/HiyoshiMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.11-08.00.06:814][596]LightingResults: New page: Lighting Build
+[2024.10.11-08.00.06:814][596]LoadErrors: New page: Loading map: HiyoshiMap.umap
+[2024.10.11-08.00.06:866][596]LogWorld: UWorld::CleanupWorld for LandscapePreview, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-08.00.06:867][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-08.00.06:867][596]MapCheck: New page: Map Check
+[2024.10.11-08.00.06:867][596]LightingResults: New page: Lighting Build
+[2024.10.11-08.00.06:871][596]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.11-08.00.06:904][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.10.11-08.00.06:925][596]LogWorld: UWorld::CleanupWorld for HiyoshiMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-08.00.06:925][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-08.00.06:931][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.10.11-08.00.06:935][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.10.11-08.00.06:939][596]LogAudio: Display: Audio Device (ID: 1) registered with world 'HiyoshiMap'.
+[2024.10.11-08.00.06:939][596]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-08.00.06:939][596]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-08.00.06:939][596]LogAIModule: Creating AISystem for world HiyoshiMap
+[2024.10.11-08.00.07:004][596]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.11-08.00.07:009][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.10.11-08.00.07:019][596]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.11-08.00.07:019][596]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.134ms to complete.
+[2024.10.11-08.00.22:422][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.10.11-08.00.22:791][495]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-08.00.22:869][495]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/ModularSciFi/Levels/LandscapePreview.LandscapePreview
+[2024.10.11-08.00.22:870][495]Cmd: MAP LOAD FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/ModularSciFi/Levels/LandscapePreview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.11-08.00.22:870][495]LightingResults: New page: Lighting Build
+[2024.10.11-08.00.22:870][495]LoadErrors: New page: Loading map: LandscapePreview.umap
+[2024.10.11-08.00.22:885][495]LogWorld: UWorld::CleanupWorld for HiyoshiMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-08.00.22:885][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-08.00.22:886][495]MapCheck: New page: Map Check
+[2024.10.11-08.00.22:886][495]LightingResults: New page: Lighting Build
+[2024.10.11-08.00.22:891][495]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.11-08.00.22:893][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.10.11-08.00.22:943][495]LogWorld: UWorld::CleanupWorld for LandscapePreview, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-08.00.22:954][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-08.00.23:248][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.10.11-08.00.23:265][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.10.11-08.00.23:527][495]LogAudio: Display: Audio Device (ID: 1) registered with world 'LandscapePreview'.
+[2024.10.11-08.00.23:527][495]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-08.00.23:527][495]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-08.00.23:528][495]LogAIModule: Creating AISystem for world LandscapePreview
+[2024.10.11-08.00.24:872][495]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2024.10.11-08.00.25:556][495]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.11-08.00.25:597][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.10.11-08.00.25:601][495]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.11-08.00.25:602][495]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.296ms to complete.
+[2024.10.11-08.00.25:605][495]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 2.736328s (0.736328s overbudget)
+[2024.10.11-08.00.26:645][495]LogShaderCompilers: Display: ================================================
+[2024.10.11-08.00.26:646][495]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.11-08.00.26:646][495]LogShaderCompilers: Display: Total job queries 261, among them cache hits 89 (34.10%)
+[2024.10.11-08.00.26:646][495]LogShaderCompilers: Display: Tracking 171 distinct input hashes that result in 130 distinct outputs (76.02%)
+[2024.10.11-08.00.26:646][495]LogShaderCompilers: Display: RAM used: 4.21 MiB of 819.20 MiB budget. Usage: 0.51%
+[2024.10.11-08.00.26:646][495]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.11-08.00.26:646][495]LogShaderCompilers: Display: Shaders Compiled: 87
+[2024.10.11-08.00.26:646][495]LogShaderCompilers: Display: Jobs assigned 87, completed 87 (100%)
+[2024.10.11-08.00.26:646][495]LogShaderCompilers: Display: Average time worker was idle: 126.38 s
+[2024.10.11-08.00.26:646][495]LogShaderCompilers: Display: Time job spent in pending queue: average 0.52 s, longest 1.58 s
+[2024.10.11-08.00.26:646][495]LogShaderCompilers: Display: Job execution time: average 0.82 s, max 4.33 s
+[2024.10.11-08.00.26:646][495]LogShaderCompilers: Display: Job life time (pending + execution): average 1.34 s, max 4.37
+[2024.10.11-08.00.26:646][495]LogShaderCompilers: Display: Shader code size: average 46.827 KiB, min 30.145 KiB, max 104.441 KiB
+[2024.10.11-08.00.26:646][495]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.85 s
+[2024.10.11-08.00.26:646][495]LogShaderCompilers: Display: Jobs were issued in 87 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.11-08.00.26:646][495]LogShaderCompilers: Display: Average processing rate: 5.49 jobs/sec
+[2024.10.11-08.00.26:646][495]LogShaderCompilers: Display: Total thread time: 51.53 s
+[2024.10.11-08.00.26:646][495]LogShaderCompilers: Display: Total thread preprocess time: 10.892 s
+[2024.10.11-08.00.26:646][495]LogShaderCompilers: Display: Percentage time preprocessing: 21.14%
+[2024.10.11-08.00.26:646][495]LogShaderCompilers: Display: Effective parallelization: 3.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.10.11-08.00.26:646][495]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.11-08.00.26:646][495]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    7 times, average 2.00 sec, max 3.92 sec, min 0.70 sec)
+[2024.10.11-08.00.26:646][495]LogShaderCompilers: Display:                                FMeshDecalsAmbientOcclusionPS (compiled    2 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2024.10.11-08.00.26:646][495]LogShaderCompilers: Display:                                                FMeshDecalsPS (compiled    2 times, average 0.67 sec, max 1.10 sec, min 0.25 sec)
+[2024.10.11-08.00.26:646][495]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2024.10.11-08.00.26:646][495]LogShaderCompilers: Display:                                                FMeshDecalsVS (compiled    3 times, average 0.67 sec, max 1.23 sec, min 0.36 sec)
+[2024.10.11-08.00.26:646][495]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.11-08.00.26:646][495]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 27.21% of total time (compiled    7 times, average 2.00 sec, max 3.92 sec, min 0.70 sec)
+[2024.10.11-08.00.26:646][495]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.52% of total time (compiled   10 times, average 0.54 sec, max 1.05 sec, min 0.35 sec)
+[2024.10.11-08.00.26:646][495]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkVS - 5.27% of total time (compiled    6 times, average 0.45 sec, max 0.54 sec, min 0.33 sec)
+[2024.10.11-08.00.26:646][495]LogShaderCompilers: Display:                        FLumenFrontLayerTranslucencyGBufferVS - 5.12% of total time (compiled    6 times, average 0.44 sec, max 0.53 sec, min 0.32 sec)
+[2024.10.11-08.00.26:646][495]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 4.33% of total time (compiled    4 times, average 0.56 sec, max 0.62 sec, min 0.46 sec)
+[2024.10.11-08.00.26:646][495]LogShaderCompilers: Display: ================================================
+[2024.10.11-08.01.08:004][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.10.11-08.01.08:127][790]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-08.01.08:129][790]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/Hiyoshi/HiyoshiMap.HiyoshiMap
+[2024.10.11-08.01.08:129][790]Cmd: MAP LOAD FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/HiyoshiMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.11-08.01.08:129][790]LightingResults: New page: Lighting Build
+[2024.10.11-08.01.08:129][790]LoadErrors: New page: Loading map: HiyoshiMap.umap
+[2024.10.11-08.01.08:180][790]LogWorld: UWorld::CleanupWorld for LandscapePreview, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-08.01.08:182][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-08.01.08:182][790]MapCheck: New page: Map Check
+[2024.10.11-08.01.08:183][790]LightingResults: New page: Lighting Build
+[2024.10.11-08.01.08:187][790]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.11-08.01.08:222][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.10.11-08.01.08:244][790]LogWorld: UWorld::CleanupWorld for HiyoshiMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-08.01.08:244][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-08.01.08:250][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.10.11-08.01.08:255][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.10.11-08.01.08:258][790]LogAudio: Display: Audio Device (ID: 1) registered with world 'HiyoshiMap'.
+[2024.10.11-08.01.08:259][790]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-08.01.08:259][790]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-08.01.08:259][790]LogAIModule: Creating AISystem for world HiyoshiMap
+[2024.10.11-08.01.08:318][790]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.11-08.01.08:324][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.10.11-08.01.08:334][790]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.11-08.01.08:334][790]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.124ms to complete.
+[2024.10.11-08.01.22:911][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.10.11-08.01.23:296][655]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-08.01.23:374][655]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/ModularSciFi/Levels/LandscapePreview.LandscapePreview
+[2024.10.11-08.01.23:375][655]Cmd: MAP LOAD FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/ModularSciFi/Levels/LandscapePreview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.11-08.01.23:375][655]LightingResults: New page: Lighting Build
+[2024.10.11-08.01.23:375][655]LoadErrors: New page: Loading map: LandscapePreview.umap
+[2024.10.11-08.01.23:390][655]LogWorld: UWorld::CleanupWorld for HiyoshiMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-08.01.23:390][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-08.01.23:390][655]MapCheck: New page: Map Check
+[2024.10.11-08.01.23:390][655]LightingResults: New page: Lighting Build
+[2024.10.11-08.01.23:397][655]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.11-08.01.23:398][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.10.11-08.01.23:466][655]LogWorld: UWorld::CleanupWorld for LandscapePreview, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-08.01.23:476][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-08.01.23:744][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.10.11-08.01.23:758][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.10.11-08.01.24:072][655]LogAudio: Display: Audio Device (ID: 1) registered with world 'LandscapePreview'.
+[2024.10.11-08.01.24:072][655]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-08.01.24:072][655]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-08.01.24:072][655]LogAIModule: Creating AISystem for world LandscapePreview
+[2024.10.11-08.01.25:375][655]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2024.10.11-08.01.26:338][655]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.11-08.01.26:383][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.10.11-08.01.26:387][655]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.11-08.01.26:387][655]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.297ms to complete.
+[2024.10.11-08.01.26:390][655]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 3.015781s (1.015781s overbudget)
+[2024.10.11-08.02.14:834][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.10.11-08.02.14:942][376]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-08.02.14:943][376]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/Hiyoshi/HiyoshiMap.HiyoshiMap
+[2024.10.11-08.02.14:943][376]Cmd: MAP LOAD FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/HiyoshiMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.11-08.02.14:943][376]LightingResults: New page: Lighting Build
+[2024.10.11-08.02.14:943][376]LoadErrors: New page: Loading map: HiyoshiMap.umap
+[2024.10.11-08.02.14:991][376]LogWorld: UWorld::CleanupWorld for LandscapePreview, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-08.02.14:992][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-08.02.14:993][376]MapCheck: New page: Map Check
+[2024.10.11-08.02.14:993][376]LightingResults: New page: Lighting Build
+[2024.10.11-08.02.15:010][376]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.11-08.02.15:033][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.10.11-08.02.15:056][376]LogWorld: UWorld::CleanupWorld for HiyoshiMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-08.02.15:056][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-08.02.15:061][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.10.11-08.02.15:066][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.10.11-08.02.15:070][376]LogAudio: Display: Audio Device (ID: 1) registered with world 'HiyoshiMap'.
+[2024.10.11-08.02.15:070][376]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-08.02.15:070][376]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-08.02.15:070][376]LogAIModule: Creating AISystem for world HiyoshiMap
+[2024.10.11-08.02.15:127][376]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.11-08.02.15:132][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.10.11-08.02.15:137][376]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.11-08.02.15:142][376]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 5.842ms to complete.
+[2024.10.11-08.02.21:023][723]LogAssetEditorSubsystem: Opening Asset editor for LandscapeLayerInfoObject /Game/Assets/ModularSciFi/Landscape/Soil_LayerInfo.Soil_LayerInfo
+[2024.10.11-08.02.22:976][827]LogSlate: Window 'Soil_LayerInfo' being destroyed
+[2024.10.11-08.02.22:984][827]LogSlate: Window 'Soil_LayerInfo' being destroyed
+[2024.10.11-08.03.58:744][473]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Mineral/SM_Mineral_1.SM_Mineral_1
+[2024.10.11-08.03.58:744][473]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Mineral/SM_Mineral_1.SM_Mineral_1
+[2024.10.11-08.03.58:744][473]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Mineral/SM_Mineral_1.SM_Mineral_1 as actor: StaticMeshActor /Game/Assets/Hiyoshi/HiyoshiMap.HiyoshiMap:PersistentLevel.StaticMeshActor_0
+[2024.10.11-08.04.00:447][575]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Mineral/SM_Mineral_1.SM_Mineral_1
+[2024.10.11-08.04.00:447][575]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Mineral/SM_Mineral_1.SM_Mineral_1
+[2024.10.11-08.04.00:448][575]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/Mineral/SM_Mineral_1.SM_Mineral_1 as actor: StaticMeshActor /Game/Assets/Hiyoshi/HiyoshiMap.HiyoshiMap:PersistentLevel.StaticMeshActor_2
+[2024.10.11-08.04.09:006][ 23]Cmd: DELETE
+[2024.10.11-08.04.09:006][ 23]Cmd: ACTOR DELETE
+[2024.10.11-08.04.09:008][ 23]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.11-08.04.09:015][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.10.11-08.04.09:020][ 23]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2024.10.11-08.04.33:843][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.10.11-08.04.35:303][428]LogSlate: Window 'Save Content' being destroyed
+[2024.10.11-08.04.35:316][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.11-08.04.35:411][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Hiyoshi/HiyoshiMap" FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/HiyoshiMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.11-08.04.35:428][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.10.11-08.04.35:438][428]LogSavePackage: Moving output files for package: /Game/Assets/Hiyoshi/HiyoshiMap
+[2024.10.11-08.04.35:438][428]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/HiyoshiMap355070804A19AB76C8B6FFADF4CBC5F4.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/HiyoshiMap.umap'
+[2024.10.11-08.04.35:446][428]LogFileHelpers: Saving map 'HiyoshiMap' took 0.035
+[2024.10.11-08.04.35:472][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 2.61 sec)
+[2024.10.11-08.04.35:845][428]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-08.04.35:919][428]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/ModularSciFi/Levels/LandscapePreview.LandscapePreview
+[2024.10.11-08.04.35:919][428]Cmd: MAP LOAD FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/ModularSciFi/Levels/LandscapePreview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.11-08.04.35:919][428]LightingResults: New page: Lighting Build
+[2024.10.11-08.04.35:919][428]LoadErrors: New page: Loading map: LandscapePreview.umap
+[2024.10.11-08.04.35:982][428]LogWorld: UWorld::CleanupWorld for HiyoshiMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-08.04.35:982][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-08.04.35:982][428]MapCheck: New page: Map Check
+[2024.10.11-08.04.35:982][428]LightingResults: New page: Lighting Build
+[2024.10.11-08.04.35:988][428]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.11-08.04.35:989][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.10.11-08.04.36:027][428]LogWorld: UWorld::CleanupWorld for LandscapePreview, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-08.04.36:037][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-08.04.36:325][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.10.11-08.04.36:335][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.10.11-08.04.36:592][428]LogAudio: Display: Audio Device (ID: 1) registered with world 'LandscapePreview'.
+[2024.10.11-08.04.36:592][428]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-08.04.36:593][428]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-08.04.36:593][428]LogAIModule: Creating AISystem for world LandscapePreview
+[2024.10.11-08.04.37:926][428]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2024.10.11-08.04.38:432][428]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.11-08.04.38:474][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.10.11-08.04.38:478][428]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.11-08.04.38:478][428]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.256ms to complete.
+[2024.10.11-08.04.38:481][428]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 2.562091s (0.562091s overbudget)
+[2024.10.11-08.04.38:499][428]AssetCheck: New page: Asset Save: HiyoshiMap
+[2024.10.11-08.04.39:717][428]LogShaderCompilers: Display: ================================================
+[2024.10.11-08.04.39:717][428]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.11-08.04.39:717][428]LogShaderCompilers: Display: Total job queries 335, among them cache hits 163 (48.66%)
+[2024.10.11-08.04.39:717][428]LogShaderCompilers: Display: Tracking 171 distinct input hashes that result in 130 distinct outputs (76.02%)
+[2024.10.11-08.04.39:717][428]LogShaderCompilers: Display: RAM used: 4.21 MiB of 819.20 MiB budget. Usage: 0.51%
+[2024.10.11-08.04.39:717][428]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.11-08.04.39:717][428]LogShaderCompilers: Display: Shaders Compiled: 87
+[2024.10.11-08.04.39:717][428]LogShaderCompilers: Display: Jobs assigned 87, completed 87 (100%)
+[2024.10.11-08.04.39:717][428]LogShaderCompilers: Display: Average time worker was idle: 126.38 s
+[2024.10.11-08.04.39:717][428]LogShaderCompilers: Display: Time job spent in pending queue: average 0.52 s, longest 1.58 s
+[2024.10.11-08.04.39:717][428]LogShaderCompilers: Display: Job execution time: average 0.82 s, max 4.33 s
+[2024.10.11-08.04.39:717][428]LogShaderCompilers: Display: Job life time (pending + execution): average 1.34 s, max 4.37
+[2024.10.11-08.04.39:717][428]LogShaderCompilers: Display: Shader code size: average 46.827 KiB, min 30.145 KiB, max 104.441 KiB
+[2024.10.11-08.04.39:717][428]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.85 s
+[2024.10.11-08.04.39:717][428]LogShaderCompilers: Display: Jobs were issued in 87 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.11-08.04.39:717][428]LogShaderCompilers: Display: Average processing rate: 5.49 jobs/sec
+[2024.10.11-08.04.39:717][428]LogShaderCompilers: Display: Total thread time: 51.53 s
+[2024.10.11-08.04.39:717][428]LogShaderCompilers: Display: Total thread preprocess time: 10.892 s
+[2024.10.11-08.04.39:717][428]LogShaderCompilers: Display: Percentage time preprocessing: 21.14%
+[2024.10.11-08.04.39:717][428]LogShaderCompilers: Display: Effective parallelization: 3.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.10.11-08.04.39:717][428]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.11-08.04.39:717][428]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    7 times, average 2.00 sec, max 3.92 sec, min 0.70 sec)
+[2024.10.11-08.04.39:717][428]LogShaderCompilers: Display:                                FMeshDecalsAmbientOcclusionPS (compiled    2 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2024.10.11-08.04.39:717][428]LogShaderCompilers: Display:                                                FMeshDecalsPS (compiled    2 times, average 0.67 sec, max 1.10 sec, min 0.25 sec)
+[2024.10.11-08.04.39:717][428]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2024.10.11-08.04.39:717][428]LogShaderCompilers: Display:                                                FMeshDecalsVS (compiled    3 times, average 0.67 sec, max 1.23 sec, min 0.36 sec)
+[2024.10.11-08.04.39:717][428]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.11-08.04.39:717][428]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 27.21% of total time (compiled    7 times, average 2.00 sec, max 3.92 sec, min 0.70 sec)
+[2024.10.11-08.04.39:717][428]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.52% of total time (compiled   10 times, average 0.54 sec, max 1.05 sec, min 0.35 sec)
+[2024.10.11-08.04.39:717][428]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkVS - 5.27% of total time (compiled    6 times, average 0.45 sec, max 0.54 sec, min 0.33 sec)
+[2024.10.11-08.04.39:717][428]LogShaderCompilers: Display:                        FLumenFrontLayerTranslucencyGBufferVS - 5.12% of total time (compiled    6 times, average 0.44 sec, max 0.53 sec, min 0.32 sec)
+[2024.10.11-08.04.39:717][428]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 4.33% of total time (compiled    4 times, average 0.56 sec, max 0.62 sec, min 0.46 sec)
+[2024.10.11-08.04.39:717][428]LogShaderCompilers: Display: ================================================
+[2024.10.11-08.05.11:123][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.10.11-08.05.11:241][132]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-08.05.11:242][132]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/Hiyoshi/HiyoshiMap.HiyoshiMap
+[2024.10.11-08.05.11:243][132]Cmd: MAP LOAD FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/HiyoshiMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.11-08.05.11:243][132]LightingResults: New page: Lighting Build
+[2024.10.11-08.05.11:243][132]LoadErrors: New page: Loading map: HiyoshiMap.umap
+[2024.10.11-08.05.11:290][132]LogWorld: UWorld::CleanupWorld for LandscapePreview, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-08.05.11:291][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-08.05.11:292][132]MapCheck: New page: Map Check
+[2024.10.11-08.05.11:292][132]LightingResults: New page: Lighting Build
+[2024.10.11-08.05.11:308][132]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.11-08.05.11:329][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.10.11-08.05.11:351][132]LogWorld: UWorld::CleanupWorld for HiyoshiMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-08.05.11:351][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-08.05.11:356][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.10.11-08.05.11:361][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.10.11-08.05.11:364][132]LogAudio: Display: Audio Device (ID: 1) registered with world 'HiyoshiMap'.
+[2024.10.11-08.05.11:365][132]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-08.05.11:365][132]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-08.05.11:365][132]LogAIModule: Creating AISystem for world HiyoshiMap
+[2024.10.11-08.05.11:418][132]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.11-08.05.11:423][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.10.11-08.05.11:427][132]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.11-08.05.11:427][132]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.108ms to complete.
+[2024.10.11-08.05.41:780][903]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DecalsPlanes/SM_GraphicalDecal_003.SM_GraphicalDecal_003
+[2024.10.11-08.05.41:780][903]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DecalsPlanes/SM_GraphicalDecal_003.SM_GraphicalDecal_003
+[2024.10.11-08.05.41:781][903]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DecalsPlanes/SM_GraphicalDecal_003.SM_GraphicalDecal_003 as actor: StaticMeshActor /Game/Assets/Hiyoshi/HiyoshiMap.HiyoshiMap:PersistentLevel.StaticMeshActor_0
+[2024.10.11-08.06.05:850][321]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DecalsPlanes/SM_GraphicalDecal_005.SM_GraphicalDecal_005
+[2024.10.11-08.06.05:850][321]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DecalsPlanes/SM_GraphicalDecal_005.SM_GraphicalDecal_005
+[2024.10.11-08.06.05:850][321]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DecalsPlanes/SM_GraphicalDecal_005.SM_GraphicalDecal_005 as actor: StaticMeshActor /Game/Assets/Hiyoshi/HiyoshiMap.HiyoshiMap:PersistentLevel.StaticMeshActor_2
+[2024.10.11-08.06.06:628][365]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DecalsPlanes/SM_GraphicalDecal_005.SM_GraphicalDecal_005
+[2024.10.11-08.06.06:628][365]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DecalsPlanes/SM_GraphicalDecal_005.SM_GraphicalDecal_005
+[2024.10.11-08.06.06:629][365]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DecalsPlanes/SM_GraphicalDecal_005.SM_GraphicalDecal_005 as actor: StaticMeshActor /Game/Assets/Hiyoshi/HiyoshiMap.HiyoshiMap:PersistentLevel.StaticMeshActor_3
+[2024.10.11-08.06.29:393][674]Cmd: DELETE
+[2024.10.11-08.06.29:393][674]Cmd: ACTOR DELETE
+[2024.10.11-08.06.29:395][674]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.11-08.06.29:399][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.10.11-08.06.29:403][674]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2024.10.11-08.07.43:367][946]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/Assets/ModularSciFi/Materials/OffroadDecal/MI_OffroadDecal.MI_OffroadDecal
+[2024.10.11-08.07.43:368][946]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/Assets/ModularSciFi/Materials/OffroadDecal/MI_OffroadDecal.MI_OffroadDecal
+[2024.10.11-08.07.43:368][946]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/Assets/ModularSciFi/Materials/OffroadDecal/MI_OffroadDecal.MI_OffroadDecal as actor: DecalActor /Game/Assets/Hiyoshi/HiyoshiMap.HiyoshiMap:PersistentLevel.DecalActor_0
+[2024.10.11-08.07.43:368][946]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/Assets/ModularSciFi/Materials/OffroadDecal/MI_OffroadDecal.MI_OffroadDecal as actor: DecalActor /Game/Assets/Hiyoshi/HiyoshiMap.HiyoshiMap:PersistentLevel.DecalActor_0
+[2024.10.11-08.07.46:778][135]LogShaderCompilers: Display: ================================================
+[2024.10.11-08.07.46:778][135]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.11-08.07.46:778][135]LogShaderCompilers: Display: Total job queries 372, among them cache hits 182 (48.92%)
+[2024.10.11-08.07.46:778][135]LogShaderCompilers: Display: Tracking 186 distinct input hashes that result in 141 distinct outputs (75.81%)
+[2024.10.11-08.07.46:778][135]LogShaderCompilers: Display: RAM used: 4.57 MiB of 819.20 MiB budget. Usage: 0.56%
+[2024.10.11-08.07.46:778][135]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.11-08.07.46:778][135]LogShaderCompilers: Display: Shaders Compiled: 94
+[2024.10.11-08.07.46:778][135]LogShaderCompilers: Display: Jobs assigned 97, completed 94 (96.91%)
+[2024.10.11-08.07.46:778][135]LogShaderCompilers: Display: Average time worker was idle: 135.18 s
+[2024.10.11-08.07.46:778][135]LogShaderCompilers: Display: Time job spent in pending queue: average 0.47 s, longest 1.58 s
+[2024.10.11-08.07.46:778][135]LogShaderCompilers: Display: Job execution time: average 0.79 s, max 4.33 s
+[2024.10.11-08.07.46:778][135]LogShaderCompilers: Display: Job life time (pending + execution): average 1.28 s, max 4.37
+[2024.10.11-08.07.46:778][135]LogShaderCompilers: Display: Shader code size: average 46.007 KiB, min 30.145 KiB, max 104.441 KiB
+[2024.10.11-08.07.46:778][135]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 17.56 s
+[2024.10.11-08.07.46:778][135]LogShaderCompilers: Display: Jobs were issued in 97 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.11-08.07.46:778][135]LogShaderCompilers: Display: Average processing rate: 5.35 jobs/sec
+[2024.10.11-08.07.46:778][135]LogShaderCompilers: Display: Total thread time: 53.066 s
+[2024.10.11-08.07.46:778][135]LogShaderCompilers: Display: Total thread preprocess time: 11.148 s
+[2024.10.11-08.07.46:778][135]LogShaderCompilers: Display: Percentage time preprocessing: 21.01%
+[2024.10.11-08.07.46:778][135]LogShaderCompilers: Display: Effective parallelization: 3.02 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.10.11-08.07.46:778][135]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.11-08.07.46:778][135]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    7 times, average 2.00 sec, max 3.92 sec, min 0.70 sec)
+[2024.10.11-08.07.46:778][135]LogShaderCompilers: Display:                                FMeshDecalsAmbientOcclusionPS (compiled    2 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2024.10.11-08.07.46:778][135]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2024.10.11-08.07.46:778][135]LogShaderCompilers: Display:                                        FMeshDecalsEmissivePS (compiled    2 times, average 0.63 sec, max 1.10 sec, min 0.16 sec)
+[2024.10.11-08.07.46:778][135]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2024.10.11-08.07.46:778][135]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.11-08.07.46:778][135]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 26.43% of total time (compiled    7 times, average 2.00 sec, max 3.92 sec, min 0.70 sec)
+[2024.10.11-08.07.46:779][135]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.71% of total time (compiled   11 times, average 0.52 sec, max 1.05 sec, min 0.26 sec)
+[2024.10.11-08.07.46:779][135]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkVS - 5.12% of total time (compiled    6 times, average 0.45 sec, max 0.54 sec, min 0.33 sec)
+[2024.10.11-08.07.46:779][135]LogShaderCompilers: Display:                        FLumenFrontLayerTranslucencyGBufferVS - 4.97% of total time (compiled    6 times, average 0.44 sec, max 0.53 sec, min 0.32 sec)
+[2024.10.11-08.07.46:779][135]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 4.84% of total time (compiled    5 times, average 0.51 sec, max 0.62 sec, min 0.34 sec)
+[2024.10.11-08.07.46:779][135]LogShaderCompilers: Display: ================================================
+[2024.10.11-08.07.53:264][502]LogActorFactory: Actor Factory attempting to spawn Material /Game/Assets/ModularSciFi/Materials/OffroadDecal/M_OffroadDecal.M_OffroadDecal
+[2024.10.11-08.07.53:264][502]LogActorFactory: Actor Factory attempting to spawn Material /Game/Assets/ModularSciFi/Materials/OffroadDecal/M_OffroadDecal.M_OffroadDecal
+[2024.10.11-08.07.53:265][502]LogActorFactory: Actor Factory spawned Material /Game/Assets/ModularSciFi/Materials/OffroadDecal/M_OffroadDecal.M_OffroadDecal as actor: DecalActor /Game/Assets/Hiyoshi/HiyoshiMap.HiyoshiMap:PersistentLevel.DecalActor_1
+[2024.10.11-08.07.53:265][502]LogActorFactory: Actor Factory spawned Material /Game/Assets/ModularSciFi/Materials/OffroadDecal/M_OffroadDecal.M_OffroadDecal as actor: DecalActor /Game/Assets/Hiyoshi/HiyoshiMap.HiyoshiMap:PersistentLevel.DecalActor_1
+[2024.10.11-08.09.35:068][453]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.11-08.09.35:162][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Hiyoshi/HiyoshiMap" FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/HiyoshiMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.11-08.09.35:182][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.11-08.09.35:195][453]LogSavePackage: Moving output files for package: /Game/Assets/Hiyoshi/HiyoshiMap
+[2024.10.11-08.09.35:196][453]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/HiyoshiMapF3E2868D46F1A91C9C535097A42C52E0.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/HiyoshiMap.umap'
+[2024.10.11-08.09.35:202][453]LogFileHelpers: Saving map 'HiyoshiMap' took 0.041
+[2024.10.11-08.09.35:213][453]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 2.75 sec)
+[2024.10.11-08.09.35:216][453]AssetCheck: New page: Asset Save: HiyoshiMap
+[2024.10.11-08.09.35:216][453]LogContentValidation: Display: Validating /Script/Engine.World /Game/Assets/Hiyoshi/HiyoshiMap.HiyoshiMap
+[2024.10.11-08.09.43:473][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.10.11-08.09.43:831][942]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-08.09.43:920][942]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/ModularSciFi/Levels/LandscapePreview.LandscapePreview
+[2024.10.11-08.09.43:920][942]Cmd: MAP LOAD FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/ModularSciFi/Levels/LandscapePreview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.11-08.09.43:920][942]LightingResults: New page: Lighting Build
+[2024.10.11-08.09.43:922][942]LoadErrors: New page: Loading map: LandscapePreview.umap
+[2024.10.11-08.09.43:939][942]LogWorld: UWorld::CleanupWorld for HiyoshiMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-08.09.43:939][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-08.09.43:939][942]MapCheck: New page: Map Check
+[2024.10.11-08.09.43:939][942]LightingResults: New page: Lighting Build
+[2024.10.11-08.09.43:946][942]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.11-08.09.43:949][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.10.11-08.09.44:014][942]LogWorld: UWorld::CleanupWorld for LandscapePreview, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-08.09.44:027][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-08.09.44:260][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.10.11-08.09.44:271][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.10.11-08.09.44:531][942]LogAudio: Display: Audio Device (ID: 1) registered with world 'LandscapePreview'.
+[2024.10.11-08.09.44:531][942]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-08.09.44:531][942]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-08.09.44:531][942]LogAIModule: Creating AISystem for world LandscapePreview
+[2024.10.11-08.09.45:926][942]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2024.10.11-08.09.46:370][942]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.11-08.09.46:409][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.10.11-08.09.46:413][942]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.11-08.09.46:413][942]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.269ms to complete.
+[2024.10.11-08.09.46:415][942]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 2.495659s (0.495659s overbudget)
+[2024.10.11-08.10.06:571][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.10.11-08.10.06:677][969]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-08.10.06:678][969]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/Hiyoshi/HiyoshiMap.HiyoshiMap
+[2024.10.11-08.10.06:678][969]Cmd: MAP LOAD FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/HiyoshiMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.11-08.10.06:678][969]LightingResults: New page: Lighting Build
+[2024.10.11-08.10.06:678][969]LoadErrors: New page: Loading map: HiyoshiMap.umap
+[2024.10.11-08.10.06:725][969]LogWorld: UWorld::CleanupWorld for LandscapePreview, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-08.10.06:726][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-08.10.06:727][969]MapCheck: New page: Map Check
+[2024.10.11-08.10.06:727][969]LightingResults: New page: Lighting Build
+[2024.10.11-08.10.06:738][969]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.11-08.10.06:766][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.10.11-08.10.06:789][969]LogWorld: UWorld::CleanupWorld for HiyoshiMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-08.10.06:789][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-08.10.06:795][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.10.11-08.10.06:799][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.10.11-08.10.06:802][969]LogAudio: Display: Audio Device (ID: 1) registered with world 'HiyoshiMap'.
+[2024.10.11-08.10.06:803][969]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-08.10.06:803][969]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-08.10.06:803][969]LogAIModule: Creating AISystem for world HiyoshiMap
+[2024.10.11-08.10.06:858][969]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.11-08.10.06:862][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.10.11-08.10.06:866][969]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.11-08.10.06:866][969]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.107ms to complete.
+[2024.10.11-08.10.12:756][288]Cmd: DELETE
+[2024.10.11-08.10.12:757][288]Cmd: ACTOR DELETE
+[2024.10.11-08.10.12:758][288]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.11-08.10.12:762][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.10.11-08.10.12:766][288]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2024.10.11-08.10.25:699][ 42]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DecalsPlanes/SM_GraphicalDecal_004.SM_GraphicalDecal_004
+[2024.10.11-08.10.25:699][ 42]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DecalsPlanes/SM_GraphicalDecal_004.SM_GraphicalDecal_004
+[2024.10.11-08.10.25:701][ 42]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DecalsPlanes/SM_GraphicalDecal_004.SM_GraphicalDecal_004 as actor: StaticMeshActor /Game/Assets/Hiyoshi/HiyoshiMap.HiyoshiMap:PersistentLevel.StaticMeshActor_0
+[2024.10.11-08.10.26:449][ 87]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DecalsPlanes/SM_GraphicalDecal_004.SM_GraphicalDecal_004
+[2024.10.11-08.10.26:449][ 87]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DecalsPlanes/SM_GraphicalDecal_004.SM_GraphicalDecal_004
+[2024.10.11-08.10.26:450][ 87]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/ModularSciFi/StaticMeshes/DecalsPlanes/SM_GraphicalDecal_004.SM_GraphicalDecal_004 as actor: StaticMeshActor /Game/Assets/Hiyoshi/HiyoshiMap.HiyoshiMap:PersistentLevel.StaticMeshActor_2
+[2024.10.11-08.11.26:343][606]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.11-08.11.26:441][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Hiyoshi/HiyoshiMap" FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/HiyoshiMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.11-08.11.26:462][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.10.11-08.11.26:474][606]LogSavePackage: Moving output files for package: /Game/Assets/Hiyoshi/HiyoshiMap
+[2024.10.11-08.11.26:474][606]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/HiyoshiMapA5AFC57942816DAFD67E0B9FDEC1B9ED.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/HiyoshiMap.umap'
+[2024.10.11-08.11.26:481][606]LogFileHelpers: Saving map 'HiyoshiMap' took 0.040
+[2024.10.11-08.11.26:492][606]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 2.90 sec)
+[2024.10.11-08.11.26:494][606]AssetCheck: New page: Asset Save: HiyoshiMap
+[2024.10.11-08.11.26:494][606]LogContentValidation: Display: Validating /Script/Engine.World /Game/Assets/Hiyoshi/HiyoshiMap.HiyoshiMap
+[2024.10.11-08.11.29:405][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.10.11-08.11.29:750][775]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-08.11.29:825][775]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/ModularSciFi/Levels/LandscapePreview.LandscapePreview
+[2024.10.11-08.11.29:826][775]Cmd: MAP LOAD FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/ModularSciFi/Levels/LandscapePreview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.11-08.11.29:826][775]LightingResults: New page: Lighting Build
+[2024.10.11-08.11.29:826][775]LoadErrors: New page: Loading map: LandscapePreview.umap
+[2024.10.11-08.11.29:842][775]LogWorld: UWorld::CleanupWorld for HiyoshiMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-08.11.29:842][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-08.11.29:843][775]MapCheck: New page: Map Check
+[2024.10.11-08.11.29:843][775]LightingResults: New page: Lighting Build
+[2024.10.11-08.11.29:848][775]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.11-08.11.29:849][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.10.11-08.11.29:909][775]LogWorld: UWorld::CleanupWorld for LandscapePreview, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-08.11.29:922][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-08.11.30:245][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.10.11-08.11.30:258][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.10.11-08.11.30:558][775]LogAudio: Display: Audio Device (ID: 1) registered with world 'LandscapePreview'.
+[2024.10.11-08.11.30:558][775]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-08.11.30:558][775]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-08.11.30:558][775]LogAIModule: Creating AISystem for world LandscapePreview
+[2024.10.11-08.11.31:830][775]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2024.10.11-08.11.32:386][775]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.11-08.11.32:432][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.10.11-08.11.32:436][775]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.11-08.11.32:436][775]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.305ms to complete.
+[2024.10.11-08.11.32:439][775]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 2.613737s (0.613737s overbudget)
+[2024.10.11-08.11.33:339][775]LogShaderCompilers: Display: ================================================
+[2024.10.11-08.11.33:342][775]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.11-08.11.33:342][775]LogShaderCompilers: Display: Total job queries 404, among them cache hits 214 (52.97%)
+[2024.10.11-08.11.33:342][775]LogShaderCompilers: Display: Tracking 189 distinct input hashes that result in 142 distinct outputs (75.13%)
+[2024.10.11-08.11.33:342][775]LogShaderCompilers: Display: RAM used: 4.64 MiB of 819.20 MiB budget. Usage: 0.57%
+[2024.10.11-08.11.33:342][775]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.11-08.11.33:342][775]LogShaderCompilers: Display: Shaders Compiled: 97
+[2024.10.11-08.11.33:342][775]LogShaderCompilers: Display: Jobs assigned 97, completed 97 (100%)
+[2024.10.11-08.11.33:342][775]LogShaderCompilers: Display: Average time worker was idle: 135.18 s
+[2024.10.11-08.11.33:342][775]LogShaderCompilers: Display: Time job spent in pending queue: average 0.47 s, longest 1.58 s
+[2024.10.11-08.11.33:342][775]LogShaderCompilers: Display: Job execution time: average 0.79 s, max 4.33 s
+[2024.10.11-08.11.33:342][775]LogShaderCompilers: Display: Job life time (pending + execution): average 1.25 s, max 4.37
+[2024.10.11-08.11.33:342][775]LogShaderCompilers: Display: Shader code size: average 45.732 KiB, min 30.145 KiB, max 104.441 KiB
+[2024.10.11-08.11.33:342][775]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 17.66 s
+[2024.10.11-08.11.33:342][775]LogShaderCompilers: Display: Jobs were issued in 97 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.11-08.11.33:342][775]LogShaderCompilers: Display: Average processing rate: 5.49 jobs/sec
+[2024.10.11-08.11.33:342][775]LogShaderCompilers: Display: Total thread time: 53.919 s
+[2024.10.11-08.11.33:342][775]LogShaderCompilers: Display: Total thread preprocess time: 11.3 s
+[2024.10.11-08.11.33:342][775]LogShaderCompilers: Display: Percentage time preprocessing: 20.96%
+[2024.10.11-08.11.33:342][775]LogShaderCompilers: Display: Effective parallelization: 3.05 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.10.11-08.11.33:342][775]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.11-08.11.33:342][775]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    7 times, average 2.00 sec, max 3.92 sec, min 0.70 sec)
+[2024.10.11-08.11.33:342][775]LogShaderCompilers: Display:                                FMeshDecalsAmbientOcclusionPS (compiled    2 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2024.10.11-08.11.33:342][775]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2024.10.11-08.11.33:342][775]LogShaderCompilers: Display:                                        FMeshDecalsEmissivePS (compiled    2 times, average 0.63 sec, max 1.10 sec, min 0.16 sec)
+[2024.10.11-08.11.33:342][775]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2024.10.11-08.11.33:342][775]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.11-08.11.33:342][775]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 26.01% of total time (compiled    7 times, average 2.00 sec, max 3.92 sec, min 0.70 sec)
+[2024.10.11-08.11.33:342][775]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.09% of total time (compiled   12 times, average 0.50 sec, max 1.05 sec, min 0.26 sec)
+[2024.10.11-08.11.33:342][775]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.40% of total time (compiled    6 times, average 0.49 sec, max 0.62 sec, min 0.34 sec)
+[2024.10.11-08.11.33:342][775]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkVS - 5.04% of total time (compiled    6 times, average 0.45 sec, max 0.54 sec, min 0.33 sec)
+[2024.10.11-08.11.33:343][775]LogShaderCompilers: Display:                        FLumenFrontLayerTranslucencyGBufferVS - 4.89% of total time (compiled    6 times, average 0.44 sec, max 0.53 sec, min 0.32 sec)
+[2024.10.11-08.11.33:343][775]LogShaderCompilers: Display: ================================================
+[2024.10.11-08.11.37:590][924]Cmd: TRANSACTION UNDO
+[2024.10.11-08.11.37:590][924]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.11-08.12.04:573][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.10.11-08.12.04:689][430]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-08.12.04:691][430]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/Hiyoshi/HiyoshiMap.HiyoshiMap
+[2024.10.11-08.12.04:691][430]Cmd: MAP LOAD FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/HiyoshiMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.11-08.12.04:691][430]LightingResults: New page: Lighting Build
+[2024.10.11-08.12.04:691][430]LoadErrors: New page: Loading map: HiyoshiMap.umap
+[2024.10.11-08.12.04:738][430]LogWorld: UWorld::CleanupWorld for LandscapePreview, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-08.12.04:739][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-08.12.04:739][430]MapCheck: New page: Map Check
+[2024.10.11-08.12.04:739][430]LightingResults: New page: Lighting Build
+[2024.10.11-08.12.04:743][430]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.11-08.12.04:781][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.10.11-08.12.04:804][430]LogWorld: UWorld::CleanupWorld for HiyoshiMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-08.12.04:804][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-08.12.04:810][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.10.11-08.12.04:815][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.10.11-08.12.04:818][430]LogAudio: Display: Audio Device (ID: 1) registered with world 'HiyoshiMap'.
+[2024.10.11-08.12.04:819][430]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-08.12.04:819][430]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-08.12.04:819][430]LogAIModule: Creating AISystem for world HiyoshiMap
+[2024.10.11-08.12.04:883][430]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.11-08.12.04:894][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.10.11-08.12.04:899][430]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.11-08.12.04:899][430]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.123ms to complete.
+[2024.10.11-08.12.08:901][652]Cmd: DELETE
+[2024.10.11-08.12.08:901][652]Cmd: ACTOR DELETE
+[2024.10.11-08.12.08:903][652]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.11-08.12.08:907][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.10.11-08.12.08:910][652]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2024.10.11-08.13.13:802][616]LogTexture: Display: Building textures: /Engine/Transient.Texture2D_6 (G8, 128x128 x1x1x1) (Required Memory Estimate: 0.432286 MB), EncodeSpeed: Fast
+[2024.10.11-08.13.14:014][616]LogViewport: Scene viewport resized to 682x845, mode Windowed.
+[2024.10.11-08.14.02:905][215]LogViewport: Scene viewport resized to 684x845, mode Windowed.
+[2024.10.11-08.14.02:941][217]LogViewport: Scene viewport resized to 688x845, mode Windowed.
+[2024.10.11-08.14.02:959][218]LogViewport: Scene viewport resized to 691x845, mode Windowed.
+[2024.10.11-08.14.02:976][219]LogViewport: Scene viewport resized to 693x845, mode Windowed.
+[2024.10.11-08.14.02:990][220]LogViewport: Scene viewport resized to 695x845, mode Windowed.
+[2024.10.11-08.14.03:007][221]LogViewport: Scene viewport resized to 696x845, mode Windowed.
+[2024.10.11-08.14.03:027][222]LogViewport: Scene viewport resized to 698x845, mode Windowed.
+[2024.10.11-08.14.03:045][223]LogViewport: Scene viewport resized to 701x845, mode Windowed.
+[2024.10.11-08.14.03:063][224]LogViewport: Scene viewport resized to 703x845, mode Windowed.
+[2024.10.11-08.14.03:079][225]LogViewport: Scene viewport resized to 706x845, mode Windowed.
+[2024.10.11-08.14.03:098][226]LogViewport: Scene viewport resized to 707x845, mode Windowed.
+[2024.10.11-08.14.03:136][227]LogViewport: Scene viewport resized to 711x845, mode Windowed.
+[2024.10.11-08.14.03:157][228]LogViewport: Scene viewport resized to 712x845, mode Windowed.
+[2024.10.11-08.14.03:175][229]LogViewport: Scene viewport resized to 714x845, mode Windowed.
+[2024.10.11-08.14.03:192][230]LogViewport: Scene viewport resized to 718x845, mode Windowed.
+[2024.10.11-08.14.03:211][231]LogViewport: Scene viewport resized to 722x845, mode Windowed.
+[2024.10.11-08.14.03:229][232]LogViewport: Scene viewport resized to 723x845, mode Windowed.
+[2024.10.11-08.14.03:262][233]LogViewport: Scene viewport resized to 729x845, mode Windowed.
+[2024.10.11-08.14.03:279][234]LogViewport: Scene viewport resized to 731x845, mode Windowed.
+[2024.10.11-08.14.03:297][235]LogViewport: Scene viewport resized to 732x845, mode Windowed.
+[2024.10.11-08.14.03:316][236]LogViewport: Scene viewport resized to 733x845, mode Windowed.
+[2024.10.11-08.14.03:335][237]LogViewport: Scene viewport resized to 735x845, mode Windowed.
+[2024.10.11-08.14.03:503][247]LogViewport: Scene viewport resized to 737x845, mode Windowed.
+[2024.10.11-08.14.11:297][676]LogViewport: Scene viewport resized to 735x845, mode Windowed.
+[2024.10.11-08.14.11:315][677]LogViewport: Scene viewport resized to 738x845, mode Windowed.
+[2024.10.11-08.14.11:345][678]LogViewport: Scene viewport resized to 744x845, mode Windowed.
+[2024.10.11-08.14.11:364][679]LogViewport: Scene viewport resized to 750x845, mode Windowed.
+[2024.10.11-08.14.11:380][680]LogViewport: Scene viewport resized to 752x845, mode Windowed.
+[2024.10.11-08.14.11:398][681]LogViewport: Scene viewport resized to 756x845, mode Windowed.
+[2024.10.11-08.14.11:419][682]LogViewport: Scene viewport resized to 762x845, mode Windowed.
+[2024.10.11-08.14.11:438][683]LogViewport: Scene viewport resized to 766x845, mode Windowed.
+[2024.10.11-08.14.11:457][684]LogViewport: Scene viewport resized to 773x845, mode Windowed.
+[2024.10.11-08.14.11:477][685]LogViewport: Scene viewport resized to 776x845, mode Windowed.
+[2024.10.11-08.14.11:497][686]LogViewport: Scene viewport resized to 783x845, mode Windowed.
+[2024.10.11-08.14.11:515][687]LogViewport: Scene viewport resized to 787x845, mode Windowed.
+[2024.10.11-08.14.11:533][688]LogViewport: Scene viewport resized to 791x845, mode Windowed.
+[2024.10.11-08.14.11:549][689]LogViewport: Scene viewport resized to 796x845, mode Windowed.
+[2024.10.11-08.14.11:567][690]LogViewport: Scene viewport resized to 802x845, mode Windowed.
+[2024.10.11-08.14.11:583][691]LogViewport: Scene viewport resized to 806x845, mode Windowed.
+[2024.10.11-08.14.11:619][692]LogViewport: Scene viewport resized to 815x845, mode Windowed.
+[2024.10.11-08.14.11:639][693]LogViewport: Scene viewport resized to 818x845, mode Windowed.
+[2024.10.11-08.14.11:653][694]LogViewport: Scene viewport resized to 822x845, mode Windowed.
+[2024.10.11-08.14.11:674][695]LogViewport: Scene viewport resized to 827x845, mode Windowed.
+[2024.10.11-08.14.11:688][696]LogViewport: Scene viewport resized to 831x845, mode Windowed.
+[2024.10.11-08.14.11:705][697]LogViewport: Scene viewport resized to 833x845, mode Windowed.
+[2024.10.11-08.14.11:723][698]LogViewport: Scene viewport resized to 835x845, mode Windowed.
+[2024.10.11-08.14.11:741][699]LogViewport: Scene viewport resized to 837x845, mode Windowed.
+[2024.10.11-08.14.11:762][700]LogViewport: Scene viewport resized to 841x845, mode Windowed.
+[2024.10.11-08.14.11:776][701]LogViewport: Scene viewport resized to 843x845, mode Windowed.
+[2024.10.11-08.14.11:795][702]LogViewport: Scene viewport resized to 846x845, mode Windowed.
+[2024.10.11-08.14.11:816][703]LogViewport: Scene viewport resized to 847x845, mode Windowed.
+[2024.10.11-08.14.21:899][285]LogViewport: Scene viewport resized to 1137x845, mode Windowed.
+[2024.10.11-08.14.26:050][487]LogViewport: Scene viewport resized to 1137x419, mode Windowed.
+[2024.10.11-08.14.27:277][553]LogEditorViewport: Clicking Background
+[2024.10.11-08.14.28:201][608]LogViewport: Scene viewport resized to 1137x421, mode Windowed.
+[2024.10.11-08.14.28:219][609]LogViewport: Scene viewport resized to 1137x427, mode Windowed.
+[2024.10.11-08.14.28:241][610]LogViewport: Scene viewport resized to 1137x432, mode Windowed.
+[2024.10.11-08.14.28:260][611]LogViewport: Scene viewport resized to 1137x437, mode Windowed.
+[2024.10.11-08.14.28:278][612]LogViewport: Scene viewport resized to 1137x441, mode Windowed.
+[2024.10.11-08.14.28:297][613]LogViewport: Scene viewport resized to 1137x446, mode Windowed.
+[2024.10.11-08.14.28:315][614]LogViewport: Scene viewport resized to 1137x449, mode Windowed.
+[2024.10.11-08.14.28:333][615]LogViewport: Scene viewport resized to 1137x453, mode Windowed.
+[2024.10.11-08.14.28:351][616]LogViewport: Scene viewport resized to 1137x460, mode Windowed.
+[2024.10.11-08.14.28:369][617]LogViewport: Scene viewport resized to 1137x464, mode Windowed.
+[2024.10.11-08.14.28:391][618]LogViewport: Scene viewport resized to 1137x470, mode Windowed.
+[2024.10.11-08.14.28:406][619]LogViewport: Scene viewport resized to 1137x476, mode Windowed.
+[2024.10.11-08.14.28:425][620]LogViewport: Scene viewport resized to 1137x480, mode Windowed.
+[2024.10.11-08.14.28:444][621]LogViewport: Scene viewport resized to 1137x483, mode Windowed.
+[2024.10.11-08.14.28:461][622]LogViewport: Scene viewport resized to 1137x488, mode Windowed.
+[2024.10.11-08.14.28:479][623]LogViewport: Scene viewport resized to 1137x493, mode Windowed.
+[2024.10.11-08.14.28:496][624]LogViewport: Scene viewport resized to 1137x496, mode Windowed.
+[2024.10.11-08.14.28:513][625]LogViewport: Scene viewport resized to 1137x501, mode Windowed.
+[2024.10.11-08.14.28:531][626]LogViewport: Scene viewport resized to 1137x504, mode Windowed.
+[2024.10.11-08.14.28:547][627]LogViewport: Scene viewport resized to 1137x510, mode Windowed.
+[2024.10.11-08.14.28:567][628]LogViewport: Scene viewport resized to 1137x513, mode Windowed.
+[2024.10.11-08.14.28:584][629]LogViewport: Scene viewport resized to 1137x514, mode Windowed.
+[2024.10.11-08.14.28:636][632]LogViewport: Scene viewport resized to 1137x516, mode Windowed.
+[2024.10.11-08.14.28:836][644]LogViewport: Scene viewport resized to 1137x517, mode Windowed.
+[2024.10.11-08.14.28:853][645]LogViewport: Scene viewport resized to 1137x520, mode Windowed.
+[2024.10.11-08.14.28:878][646]LogViewport: Scene viewport resized to 1137x521, mode Windowed.
+[2024.10.11-08.14.30:886][761]LogViewport: Scene viewport resized to 1137x845, mode Windowed.
+[2024.10.11-08.14.35:809][  7]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2024.10.11-08.14.35:843][  7]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.034 s
+[2024.10.11-08.14.35:844][  7]LogOutputDevice: Error: === Handled ensure: ===
+[2024.10.11-08.14.35:844][  7]LogOutputDevice: Error: 
+[2024.10.11-08.14.35:844][  7]LogOutputDevice: Error: Ensure condition failed: !PersistentLayout->PrimaryArea.IsValid()  [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Docking\TabManager.cpp] [Line: 944] 
+[2024.10.11-08.14.35:844][  7]LogOutputDevice: Error: 
+[2024.10.11-08.14.35:844][  7]LogOutputDevice: Error: Stack: 
+[2024.10.11-08.14.35:844][  7]LogOutputDevice: Error: [Callstack] 0x00007ff96ee740a0 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.10.11-08.14.35:844][  7]LogOutputDevice: Error: [Callstack] 0x00007ff96ee91c84 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.10.11-08.14.35:844][  7]LogOutputDevice: Error: [Callstack] 0x00007ff96ee00ced UnrealEditor-Slate.dll!UnknownFunction []
+[2024.10.11-08.14.35:844][  7]LogOutputDevice: Error: [Callstack] 0x00007ff974db6870 UnrealEditor-Core.dll!UnknownFunction []
+[2024.10.11-08.14.35:844][  7]LogOutputDevice: Error: [Callstack] 0x00007ff974dd541b UnrealEditor-Core.dll!UnknownFunction []
+[2024.10.11-08.14.35:844][  7]LogOutputDevice: Error: [Callstack] 0x00007ff7c50dcea9 UnrealEditor.exe!UnknownFunction []
+[2024.10.11-08.14.35:844][  7]LogOutputDevice: Error: [Callstack] 0x00007ff7c50fd28c UnrealEditor.exe!UnknownFunction []
+[2024.10.11-08.14.35:844][  7]LogOutputDevice: Error: [Callstack] 0x00007ff7c50fd37a UnrealEditor.exe!UnknownFunction []
+[2024.10.11-08.14.35:844][  7]LogOutputDevice: Error: [Callstack] 0x00007ff7c5100854 UnrealEditor.exe!UnknownFunction []
+[2024.10.11-08.14.35:844][  7]LogOutputDevice: Error: [Callstack] 0x00007ff7c5116984 UnrealEditor.exe!UnknownFunction []
+[2024.10.11-08.14.35:844][  7]LogOutputDevice: Error: [Callstack] 0x00007ff7c5119d7a UnrealEditor.exe!UnknownFunction []
+[2024.10.11-08.14.35:844][  7]LogOutputDevice: Error: [Callstack] 0x00007ffa003f257d KERNEL32.DLL!UnknownFunction []
+[2024.10.11-08.14.35:844][  7]LogOutputDevice: Error: [Callstack] 0x00007ffa01a8af08 ntdll.dll!UnknownFunction []
+[2024.10.11-08.14.35:844][  7]LogOutputDevice: Error: 
+[2024.10.11-08.14.35:856][  7]LogStats:                SubmitErrorReport -  0.000 s
+[2024.10.11-08.14.37:628][  7]LogStats:                    SendNewReport -  1.773 s
+[2024.10.11-08.14.37:628][  7]LogStats:             FDebug::EnsureFailed -  1.820 s
+[2024.10.11-08.14.49:644][633]LogViewport: Scene viewport resized to 1137x419, mode Windowed.
+[2024.10.11-08.14.52:677][807]LogViewport: Scene viewport resized to 1137x845, mode Windowed.
+[2024.10.11-08.15.24:941][768]LogTexture: Display: Building textures: /Game/Assets/Hiyoshi/HiyoshiMap.HiyoshiMap:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2024.10.11-08.15.24:991][768]LogTexture: Display: Building textures: /Game/Assets/Hiyoshi/HiyoshiMap.HiyoshiMap:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.10.11-08.15.25:555][770]LogShaderCompilers: Display: ================================================
+[2024.10.11-08.15.25:555][770]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.11-08.15.25:555][770]LogShaderCompilers: Display: Total job queries 700, among them cache hits 230 (32.86%)
+[2024.10.11-08.15.25:555][770]LogShaderCompilers: Display: Tracking 467 distinct input hashes that result in 239 distinct outputs (51.18%)
+[2024.10.11-08.15.25:555][770]LogShaderCompilers: Display: RAM used: 11.87 MiB of 819.20 MiB budget. Usage: 1.45%
+[2024.10.11-08.15.25:555][770]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.11-08.15.25:555][770]LogShaderCompilers: Display: Shaders Compiled: 375
+[2024.10.11-08.15.25:555][770]LogShaderCompilers: Display: Jobs assigned 377, completed 375 (99.47%)
+[2024.10.11-08.15.25:555][770]LogShaderCompilers: Display: Average time worker was idle: 127.93 s
+[2024.10.11-08.15.25:555][770]LogShaderCompilers: Display: Time job spent in pending queue: average 2.54 s, longest 9.58 s
+[2024.10.11-08.15.25:555][770]LogShaderCompilers: Display: Job execution time: average 2.32 s, max 4.60 s
+[2024.10.11-08.15.25:555][770]LogShaderCompilers: Display: Job life time (pending + execution): average 4.87 s, max 10.07
+[2024.10.11-08.15.25:555][770]LogShaderCompilers: Display: Shader code size: average 47.244 KiB, min 3.324 KiB, max 104.441 KiB
+[2024.10.11-08.15.25:555][770]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 29.96 s
+[2024.10.11-08.15.25:555][770]LogShaderCompilers: Display: Jobs were issued in 159 batches (only local compilation was used), average 2.37 jobs/batch
+[2024.10.11-08.15.25:555][770]LogShaderCompilers: Display: Average processing rate: 12.52 jobs/sec
+[2024.10.11-08.15.25:555][770]LogShaderCompilers: Display: Total thread time: 150.727 s
+[2024.10.11-08.15.25:555][770]LogShaderCompilers: Display: Total thread preprocess time: 18.686 s
+[2024.10.11-08.15.25:555][770]LogShaderCompilers: Display: Percentage time preprocessing: 12.40%
+[2024.10.11-08.15.25:555][770]LogShaderCompilers: Display: Effective parallelization: 5.03 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.10.11-08.15.25:555][770]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.11-08.15.25:555][770]LogShaderCompilers: Display:                                FMeshDecalsAmbientOcclusionPS (compiled    2 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2024.10.11-08.15.25:555][770]LogShaderCompilers: Display:                                        FMeshDecalsEmissivePS (compiled    2 times, average 0.63 sec, max 1.10 sec, min 0.16 sec)
+[2024.10.11-08.15.25:555][770]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   43 times, average 0.63 sec, max 3.92 sec, min 0.28 sec)
+[2024.10.11-08.15.25:555][770]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2024.10.11-08.15.25:555][770]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2024.10.11-08.15.25:555][770]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.11-08.15.25:555][770]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 18.00% of total time (compiled   43 times, average 0.63 sec, max 3.92 sec, min 0.28 sec)
+[2024.10.11-08.15.25:555][770]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.14% of total time (compiled   57 times, average 0.43 sec, max 1.05 sec, min 0.18 sec)
+[2024.10.11-08.15.25:555][770]LogShaderCompilers: Display:                                             FDebugViewModePS - 13.69% of total time (compiled   43 times, average 0.48 sec, max 0.83 sec, min 0.31 sec)
+[2024.10.11-08.15.25:555][770]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.89% of total time (compiled   51 times, average 0.38 sec, max 0.62 sec, min 0.26 sec)
+[2024.10.11-08.15.25:555][770]LogShaderCompilers: Display:                                             FDebugViewModeVS - 8.25% of total time (compiled   43 times, average 0.29 sec, max 0.40 sec, min 0.16 sec)
+[2024.10.11-08.15.25:555][770]LogShaderCompilers: Display: ================================================
+[2024.10.11-08.17.19:679][329]LogTexture: Display: Building textures: /Game/Assets/Hiyoshi/HiyoshiMap.HiyoshiMap:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2024.10.11-08.19.19:646][541]LogViewport: Scene viewport resized to 1132x845, mode Windowed.
+[2024.10.11-08.19.19:664][542]LogViewport: Scene viewport resized to 1127x845, mode Windowed.
+[2024.10.11-08.19.19:694][543]LogViewport: Scene viewport resized to 1120x845, mode Windowed.
+[2024.10.11-08.19.19:716][544]LogViewport: Scene viewport resized to 1113x845, mode Windowed.
+[2024.10.11-08.19.19:739][545]LogViewport: Scene viewport resized to 1106x845, mode Windowed.
+[2024.10.11-08.19.19:761][546]LogViewport: Scene viewport resized to 1100x845, mode Windowed.
+[2024.10.11-08.19.19:784][547]LogViewport: Scene viewport resized to 1095x845, mode Windowed.
+[2024.10.11-08.19.19:805][548]LogViewport: Scene viewport resized to 1090x845, mode Windowed.
+[2024.10.11-08.19.19:836][549]LogViewport: Scene viewport resized to 1080x845, mode Windowed.
+[2024.10.11-08.19.19:853][550]LogViewport: Scene viewport resized to 1076x845, mode Windowed.
+[2024.10.11-08.19.19:877][551]LogViewport: Scene viewport resized to 1068x845, mode Windowed.
+[2024.10.11-08.19.19:897][552]LogViewport: Scene viewport resized to 1064x845, mode Windowed.
+[2024.10.11-08.19.19:915][553]LogViewport: Scene viewport resized to 1062x845, mode Windowed.
+[2024.10.11-08.19.19:938][554]LogViewport: Scene viewport resized to 1057x845, mode Windowed.
+[2024.10.11-08.19.19:957][555]LogViewport: Scene viewport resized to 1053x845, mode Windowed.
+[2024.10.11-08.19.19:978][556]LogViewport: Scene viewport resized to 1048x845, mode Windowed.
+[2024.10.11-08.19.20:000][557]LogViewport: Scene viewport resized to 1045x845, mode Windowed.
+[2024.10.11-08.19.20:020][558]LogViewport: Scene viewport resized to 1043x845, mode Windowed.
+[2024.10.11-08.19.20:041][559]LogViewport: Scene viewport resized to 1041x845, mode Windowed.
+[2024.10.11-08.19.20:080][561]LogViewport: Scene viewport resized to 1038x845, mode Windowed.
+[2024.10.11-08.19.20:146][565]LogViewport: Scene viewport resized to 1037x845, mode Windowed.
+[2024.10.11-08.19.20:164][566]LogViewport: Scene viewport resized to 1036x845, mode Windowed.
+[2024.10.11-08.19.20:185][567]LogViewport: Scene viewport resized to 1035x845, mode Windowed.
+[2024.10.11-08.19.20:210][568]LogViewport: Scene viewport resized to 1033x845, mode Windowed.
+[2024.10.11-08.19.20:229][569]LogViewport: Scene viewport resized to 1032x845, mode Windowed.
+[2024.10.11-08.19.20:266][571]LogViewport: Scene viewport resized to 1031x845, mode Windowed.
+[2024.10.11-08.19.20:284][572]LogViewport: Scene viewport resized to 1028x845, mode Windowed.
+[2024.10.11-08.22.09:298][226]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.11-08.22.09:708][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Hiyoshi/HiyoshiMap" FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/HiyoshiMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.11-08.22.09:737][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.10.11-08.22.09:807][226]LogTexture: Display: Building textures: /Game/Assets/Hiyoshi/HiyoshiMap.HiyoshiMap:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2024.10.11-08.22.09:823][226]LogTexture: Display: Building textures: /Game/Assets/Hiyoshi/HiyoshiMap.HiyoshiMap:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.10.11-08.22.09:879][226]LogSavePackage: Moving output files for package: /Game/Assets/Hiyoshi/HiyoshiMap
+[2024.10.11-08.22.09:879][226]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/HiyoshiMap5F885FA24F8DCAEE721CE7AA6CA0ABB7.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/HiyoshiMap.umap'
+[2024.10.11-08.22.09:885][226]LogFileHelpers: Saving map 'HiyoshiMap' took 0.179
+[2024.10.11-08.22.09:901][226]LogFileHelpers: InternalPromptForCheckoutAndSave took 604 ms (total: 3.51 sec)
+[2024.10.11-08.22.09:903][226]AssetCheck: New page: Asset Save: HiyoshiMap
+[2024.10.11-08.22.09:903][226]LogContentValidation: Display: Validating /Script/Engine.World /Game/Assets/Hiyoshi/HiyoshiMap.HiyoshiMap
