@@ -87,4 +87,5 @@ DerivedDataCache/*
 **/Assets
 .idea
 Saved/
+Saved/Logs
 Intermediate/
