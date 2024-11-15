@@ -1892,3 +1892,478 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2024.11.15-06.32.36:384][639]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 936 ms)
 [2024.11.15-06.32.36:385][639]AssetCheck: New page: Asset Save: BP_GB_GameBase
 [2024.11.15-06.32.36:385][639]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/Hiyoshi/BP_GB_GameBase.BP_GB_GameBase
+[2024.11.15-06.33.58:176][116]LogDerivedDataCache: C:/Users/vantan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.119 and deleted 0 files with total size 0 MiB and 2 empty folders. Scanned 996 files in 1656 folders with total size 334 MiB.
+[2024.11.15-06.35.28:560][631]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.15-06.35.28:565][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.15-06.35.28:566][631]PIE: New page: PIE session: TmpLevel (2024/11/16 0:35:28)
+[2024.11.15-06.35.28:566][631]LogPlayLevel: Creating play world package: /Game/Assets/Hiyoshi/UEDPIE_0_TmpLevel
+[2024.11.15-06.35.28:569][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003545s)
+[2024.11.15-06.35.28:569][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Hiyoshi/TmpLevel.TmpLevel to /Game/Assets/Hiyoshi/UEDPIE_0_TmpLevel.TmpLevel (0.003598s)
+[2024.11.15-06.35.28:581][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.11.15-06.35.28:586][631]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.15-06.35.28:586][631]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.15-06.35.28:586][631]LogAIModule: Creating AISystem for world TmpLevel
+[2024.11.15-06.35.28:587][631]LogPlayLevel: PIE: World Init took: (0.001301s)
+[2024.11.15-06.35.28:587][631]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.11.15-06.35.28:587][631]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.15-06.35.28:587][631]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.15-06.35.28:587][631]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.15-06.35.28:587][631]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.15-06.35.28:587][631]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.15-06.35.28:587][631]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.15-06.35.28:587][631]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.15-06.35.28:587][631]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.15-06.35.28:588][631]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.15-06.35.28:588][631]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.15-06.35.28:588][631]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.15-06.35.28:590][631]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.15-06.35.28:611][631]LogAudioMixer: Display: Using Audio Hardware Device スピーカー (Realtek(R) Audio)
+[2024.11.15-06.35.28:611][631]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.15-06.35.28:611][631]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.15-06.35.28:611][631]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.15-06.35.28:614][631]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.11.15-06.35.28:614][631]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.11.15-06.35.28:616][631]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.11.15-06.35.28:616][631]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.11.15-06.35.28:616][631]LogInit: FAudioDevice initialized with ID 12.
+[2024.11.15-06.35.28:616][631]LogAudio: Display: Audio Device (ID: 12) registered with world 'TmpLevel'.
+[2024.11.15-06.35.28:616][631]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.11.15-06.35.28:622][631]LogLoad: Game class is 'BP_GB_GameBase_C'
+[2024.11.15-06.35.28:623][631]LogWorld: Bringing World /Game/Assets/Hiyoshi/UEDPIE_0_TmpLevel.TmpLevel up for play (max tick rate 60) at 2024.11.15-15.35.28
+[2024.11.15-06.35.28:623][631]LogWorld: Bringing up level for play took: 0.000922
+[2024.11.15-06.35.28:626][631]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.11.15-06.35.28:628][631]LogBlueprintUserMessages: [BP_FlagCountController_C_1] StartFlagController
+[2024.11.15-06.35.28:628][631]LogBlueprintUserMessages: [BP_FlagCountController_C_1] 00
+[2024.11.15-06.35.28:628][631]LogBlueprintUserMessages: [BP_FlagCountController_C_1] 14
+[2024.11.15-06.35.28:628][631]LogBlueprintUserMessages: [BP_FlagCountController_C_1] 22
+[2024.11.15-06.35.28:628][631]LogBlueprintUserMessages: [BP_FlagCountController_C_1] 31
+[2024.11.15-06.35.28:628][631]LogBlueprintUserMessages: [BP_FlagCountController_C_1] 43
+[2024.11.15-06.35.28:629][631]PIE: Server logged in
+[2024.11.15-06.35.28:631][631]PIE: Play in editor total start time 0.067 seconds.
+[2024.11.15-06.35.31:883][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.15-06.35.31:883][818]LogWorld: BeginTearingDown for /Game/Assets/Hiyoshi/UEDPIE_0_TmpLevel
+[2024.11.15-06.35.31:883][818]LogWorld: UWorld::CleanupWorld for TmpLevel, bSessionEnded=true, bCleanupResources=true
+[2024.11.15-06.35.31:884][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.15-06.35.31:896][818]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.15-06.35.31:899][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.15-06.35.31:916][818]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.15-06.35.31:916][818]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.11.15-06.35.31:916][818]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.11.15-06.35.31:918][818]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.11.15-06.35.31:924][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.15-06.35.31:924][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.11.15-06.35.31:967][819]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.11.15-06.36.56:419][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.11.15-06.36.56:421][450]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Hiyoshi/TmpLevel' took 0.011
+[2024.11.15-06.36.56:422][450]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Hiyoshi/BP_PC_Player] ([2] browsable assets)...
+[2024.11.15-06.36.56:422][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Hiyoshi/BP_PC_Player]
+[2024.11.15-06.36.56:426][450]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Hiyoshi/BP_PC_Player_Auto2
+[2024.11.15-06.36.56:426][450]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/BP_PC_Player_Auto25728B32C4241D776AF9097A6AE170AE8.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Saved/Autosaves/Game/Assets/Hiyoshi/BP_PC_Player_Auto2.uasset'
+[2024.11.15-06.36.56:426][450]LogFileHelpers: Auto-saving content packages took 0.005
+[2024.11.15-06.38.23:704][591]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.11.15-06.38.23:722][591]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.11.15-06.38.23:729][591]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.11.15-06.38.23:738][592]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.11.15-06.38.39:932][555]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_ObserveObj
+[2024.11.15-06.38.39:941][555]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.11.15-06.38.41:452][644]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Hiyoshi/BP_ObserveObj.BP_ObserveObj
+[2024.11.15-06.38.41:453][644]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.15-06.38.41:453][644]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.15-06.38.41:602][644]LogViewport: Scene viewport resized to 1057x813, mode Windowed.
+[2024.11.15-06.43.35:855][300]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.15-06.43.35:941][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Hiyoshi/BP_ObserveObj" FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/BP_ObserveObj.uasset" SILENT=true
+[2024.11.15-06.43.35:947][300]LogSavePackage: Moving output files for package: /Game/Assets/Hiyoshi/BP_ObserveObj
+[2024.11.15-06.43.35:947][300]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/BP_ObserveObj6180EEAA4B488221C4ED8FACB6EDF02F.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/BP_ObserveObj.uasset'
+[2024.11.15-06.43.35:964][300]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 1.04 sec)
+[2024.11.15-06.43.35:966][300]AssetCheck: New page: Asset Save: BP_ObserveObj
+[2024.11.15-06.43.35:966][300]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/Hiyoshi/BP_ObserveObj.BP_ObserveObj
+[2024.11.15-06.43.36:762][347]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.15-06.43.36:844][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Hiyoshi/BP_ObserveObj" FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/BP_ObserveObj.uasset" SILENT=true
+[2024.11.15-06.43.36:847][347]LogSavePackage: Moving output files for package: /Game/Assets/Hiyoshi/BP_ObserveObj
+[2024.11.15-06.43.36:848][347]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/BP_ObserveObj9DD16CCD4FBF33F3023A68A95DBE0662.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/BP_ObserveObj.uasset'
+[2024.11.15-06.43.36:858][347]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 1.14 sec)
+[2024.11.15-06.43.36:860][347]AssetCheck: New page: Asset Save: BP_ObserveObj
+[2024.11.15-06.43.36:860][347]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/Hiyoshi/BP_ObserveObj.BP_ObserveObj
+[2024.11.15-06.43.40:259][551]BlueprintLog: New page: Compile BP_ObserveObj
+[2024.11.15-06.43.40:263][551]LogBlueprint: Error: [AssetLog] C:\Users\vantan\Documents\Unreal\Content\Assets\Hiyoshi\BP_ObserveObj.uasset: [Compiler] Event Dispatcher pin is not connected  Bind Event to On Clicked
+[2024.11.15-06.43.40:295][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.11.15-06.47.10:880][110]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.11.15-06.47.22:648][702]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.11.15-06.47.58:489][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.11.15-06.47.58:491][399]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Hiyoshi/TmpLevel' took 0.023
+[2024.11.15-06.47.58:491][399]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Hiyoshi/BP_ObserveObj] ([2] browsable assets)...
+[2024.11.15-06.47.58:491][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Hiyoshi/BP_ObserveObj]
+[2024.11.15-06.47.58:494][399]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Hiyoshi/BP_ObserveObj_Auto3
+[2024.11.15-06.47.58:494][399]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/BP_ObserveObj_Auto392CC834342590F15B7171B8C632A0451.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Saved/Autosaves/Game/Assets/Hiyoshi/BP_ObserveObj_Auto3.uasset'
+[2024.11.15-06.47.58:495][399]LogFileHelpers: Auto-saving content packages took 0.004
+[2024.11.15-06.48.22:356][631]LogViewport: Scene viewport resized to 533x845, mode Windowed.
+[2024.11.15-06.48.48:685][173]LogViewport: Scene viewport resized to 715x845, mode Windowed.
+[2024.11.15-06.48.54:783][516]LogViewport: Scene viewport resized to 533x845, mode Windowed.
+[2024.11.15-06.49.30:228][ 52]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hiyoshi/_GENERATED/vantan/Sphere_607F28D4.Sphere_607F28D4
+[2024.11.15-06.49.30:228][ 52]LogStaticMesh: Display: Building static mesh Sphere_607F28D4...
+[2024.11.15-06.49.30:231][ 52]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hiyoshi/_GENERATED/vantan/Sphere_607F28D4.Sphere_607F28D4 as actor: StaticMeshActor /Game/Assets/Hiyoshi/TmpLevel.TmpLevel:PersistentLevel.StaticMeshActor_0
+[2024.11.15-06.49.30:249][ 52]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Hiyoshi/_GENERATED/vantan/Sphere_607F28D4) ...
+[2024.11.15-06.49.30:251][ 52]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Hiyoshi/_GENERATED/vantan/Sphere_607F28D4.Sphere_607F28D4
+[2024.11.15-06.49.34:093][259]LogViewport: Scene viewport resized to 715x845, mode Windowed.
+[2024.11.15-06.50.16:776][626]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.15-06.50.16:879][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Hiyoshi/TmpLevel" FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/TmpLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.15-06.50.16:917][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.11.15-06.50.16:931][626]LogSavePackage: Moving output files for package: /Game/Assets/Hiyoshi/TmpLevel
+[2024.11.15-06.50.16:931][626]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/TmpLevelAE1BE6B84A67CECEE4737989944EEFDF.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/TmpLevel.umap'
+[2024.11.15-06.50.16:939][626]LogFileHelpers: Saving map 'TmpLevel' took 0.061
+[2024.11.15-06.50.16:951][626]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 1.31 sec)
+[2024.11.15-06.50.16:953][626]AssetCheck: New page: Asset Save: TmpLevel
+[2024.11.15-06.50.16:953][626]LogContentValidation: Display: Validating /Script/Engine.World /Game/Assets/Hiyoshi/TmpLevel.TmpLevel
+[2024.11.15-06.50.27:852][982]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.11.15-06.50.27:866][982]LogContentBrowser: Creating deferred item: NewFolder
+[2024.11.15-06.50.27:875][983]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.11.15-06.50.31:453][198]LogContentBrowser: Attempting asset rename: NewFolder -> Test
+[2024.11.15-06.50.31:455][198]LogContentBrowser: End creating deferred item NewFolder
+[2024.11.15-06.50.51:993][936]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.15-06.50.59:232][335]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.15-06.50.59:394][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Hiyoshi/Test/Sphere_607F28D4" FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/Test/Sphere_607F28D4.uasset" SILENT=true
+[2024.11.15-06.50.59:402][335]LogSavePackage: Moving output files for package: /Game/Assets/Hiyoshi/Test/Sphere_607F28D4
+[2024.11.15-06.50.59:402][335]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/Sphere_607F28D4D06F31424D6C1EEB2E2E4DA3CC5B760B.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/Test/Sphere_607F28D4.uasset'
+[2024.11.15-06.50.59:406][335]LogSavePackage: Moving output files for package: /Game/Assets/Hiyoshi/_GENERATED/vantan/Sphere_607F28D4
+[2024.11.15-06.50.59:406][335]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/Sphere_607F28D4623CDF594B56CF0E3379BB8DF9881FA2.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/_GENERATED/vantan/Sphere_607F28D4.uasset'
+[2024.11.15-06.50.59:428][335]LogFileHelpers: InternalPromptForCheckoutAndSave took 196 ms (total: 1.51 sec)
+[2024.11.15-06.50.59:476][335]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.15-06.50.59:476][335]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Hiyoshi/Test/Sphere_607F28D4.Sphere_607F28D4
+[2024.11.15-06.50.59:476][335]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Assets/Hiyoshi/_GENERATED/vantan/Sphere_607F28D4.Sphere_607F28D4
+[2024.11.15-06.51.47:889][404]BlueprintLog: New page: Compile BP_ObserveObj
+[2024.11.15-06.51.47:892][404]LogBlueprint: Error: [AssetLog] C:\Users\vantan\Documents\Unreal\Content\Assets\Hiyoshi\BP_ObserveObj.uasset: [Compiler] Event Dispatcher pin is not connected  Bind Event to On Clicked
+[2024.11.15-06.51.47:917][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.11.15-06.51.47:945][404]LogViewport: Scene viewport resized to 1057x308, mode Windowed.
+[2024.11.15-06.51.51:585][621]LogViewport: Scene viewport resized to 1057x813, mode Windowed.
+[2024.11.15-06.52.45:922][303]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.15-06.53.06:308][506]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.15-06.57.21:031][946]BlueprintLog: New page: Compile BP_ObserveObj
+[2024.11.15-06.57.21:034][946]LogBlueprint: Error: [AssetLog] C:\Users\vantan\Documents\Unreal\Content\Assets\Hiyoshi\BP_ObserveObj.uasset: [Compiler] This blueprint (self) is not a Button, therefore ' Target ' must have a connection.
+[2024.11.15-06.57.21:035][946]LogBlueprint: Error: [AssetLog] C:\Users\vantan\Documents\Unreal\Content\Assets\Hiyoshi\BP_ObserveObj.uasset: [Compiler] Event Dispatcher pin is not connected  Bind Event to On Clicked
+[2024.11.15-06.57.21:055][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.11.15-07.00.17:217][503]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.15-07.00.17:335][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Hiyoshi/BP_ObserveObj" FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/BP_ObserveObj.uasset" SILENT=true
+[2024.11.15-07.00.17:339][503]LogSavePackage: Moving output files for package: /Game/Assets/Hiyoshi/BP_ObserveObj
+[2024.11.15-07.00.17:340][503]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/BP_ObserveObj76F4B85A4E72CC0143DA7BBAA9E8C5E1.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/BP_ObserveObj.uasset'
+[2024.11.15-07.00.17:350][503]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 1.64 sec)
+[2024.11.15-07.00.17:351][503]AssetCheck: New page: Asset Save: BP_ObserveObj
+[2024.11.15-07.00.17:352][503]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/Hiyoshi/BP_ObserveObj.BP_ObserveObj
+[2024.11.15-07.00.28:031][144]BlueprintLog: New page: Compile BP_ObserveObj
+[2024.11.15-07.00.28:052][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.11.15-07.00.34:835][471]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.15-07.00.34:840][471]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.11.15-07.00.34:841][471]LogPlayLevel: [PlayLevel] Compiling TmpLevel before play...
+[2024.11.15-07.00.34:866][471]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.11.15-07.00.34:868][471]LogPlayLevel: PlayLevel: Blueprint regeneration took 27 ms (1 blueprints)
+[2024.11.15-07.00.34:868][471]PIE: New page: PIE session: TmpLevel (2024/11/16 1:00:34)
+[2024.11.15-07.00.34:911][471]LogPlayLevel: Creating play world package: /Game/Assets/Hiyoshi/UEDPIE_0_TmpLevel
+[2024.11.15-07.00.34:914][471]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001794s)
+[2024.11.15-07.00.34:914][471]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Hiyoshi/TmpLevel.TmpLevel to /Game/Assets/Hiyoshi/UEDPIE_0_TmpLevel.TmpLevel (0.001835s)
+[2024.11.15-07.00.34:924][471]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.11.15-07.00.34:926][471]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.15-07.00.34:926][471]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.15-07.00.34:927][471]LogAIModule: Creating AISystem for world TmpLevel
+[2024.11.15-07.00.34:927][471]LogPlayLevel: PIE: World Init took: (0.002386s)
+[2024.11.15-07.00.34:927][471]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.11.15-07.00.34:928][471]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.15-07.00.34:928][471]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.15-07.00.34:928][471]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.15-07.00.34:928][471]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.15-07.00.34:928][471]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.15-07.00.34:928][471]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.15-07.00.34:928][471]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.15-07.00.34:928][471]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.15-07.00.34:928][471]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.15-07.00.34:928][471]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.15-07.00.34:928][471]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.15-07.00.34:930][471]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.15-07.00.34:954][471]LogAudioMixer: Display: Using Audio Hardware Device スピーカー (Realtek(R) Audio)
+[2024.11.15-07.00.34:955][471]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.15-07.00.34:955][471]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.15-07.00.34:955][471]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.15-07.00.34:956][471]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.11.15-07.00.34:956][471]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.11.15-07.00.34:958][471]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.11.15-07.00.34:958][471]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.11.15-07.00.34:958][471]LogInit: FAudioDevice initialized with ID 13.
+[2024.11.15-07.00.34:958][471]LogAudio: Display: Audio Device (ID: 13) registered with world 'TmpLevel'.
+[2024.11.15-07.00.34:958][471]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.11.15-07.00.34:963][471]LogLoad: Game class is 'BP_GB_GameBase_C'
+[2024.11.15-07.00.34:964][471]LogWorld: Bringing World /Game/Assets/Hiyoshi/UEDPIE_0_TmpLevel.TmpLevel up for play (max tick rate 60) at 2024.11.15-16.00.34
+[2024.11.15-07.00.34:964][471]LogWorld: Bringing up level for play took: 0.000701
+[2024.11.15-07.00.34:966][471]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.11.15-07.00.34:967][471]LogBlueprintUserMessages: [BP_FlagCountController_C_1] StartFlagController
+[2024.11.15-07.00.34:967][471]LogBlueprintUserMessages: [BP_FlagCountController_C_1] 02
+[2024.11.15-07.00.34:967][471]LogBlueprintUserMessages: [BP_FlagCountController_C_1] 11
+[2024.11.15-07.00.34:967][471]LogBlueprintUserMessages: [BP_FlagCountController_C_1] 20
+[2024.11.15-07.00.34:967][471]LogBlueprintUserMessages: [BP_FlagCountController_C_1] 33
+[2024.11.15-07.00.34:967][471]LogBlueprintUserMessages: [BP_FlagCountController_C_1] 44
+[2024.11.15-07.00.34:967][471]PIE: Server logged in
+[2024.11.15-07.00.34:969][471]PIE: Play in editor total start time 0.128 seconds.
+[2024.11.15-07.00.40:101][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.15-07.00.40:101][772]LogWorld: BeginTearingDown for /Game/Assets/Hiyoshi/UEDPIE_0_TmpLevel
+[2024.11.15-07.00.40:101][772]LogWorld: UWorld::CleanupWorld for TmpLevel, bSessionEnded=true, bCleanupResources=true
+[2024.11.15-07.00.40:102][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.15-07.00.40:107][772]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.15-07.00.40:111][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.15-07.00.40:122][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.15-07.00.40:122][772]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.11.15-07.00.40:122][772]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.11.15-07.00.40:124][772]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.11.15-07.00.40:130][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.11.15-07.00.40:188][774]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.11.15-07.00.49:431][250]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hiyoshi/BP_ObserveObj.BP_ObserveObj_C
+[2024.11.15-07.00.49:432][250]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hiyoshi/BP_ObserveObj.BP_ObserveObj_C
+[2024.11.15-07.00.49:436][250]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hiyoshi/BP_ObserveObj.BP_ObserveObj as actor: BP_ObserveObj_C /Game/Assets/Hiyoshi/TmpLevel.TmpLevel:PersistentLevel.BP_ObserveObj_C_0
+[2024.11.15-07.00.49:441][250]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hiyoshi/BP_ObserveObj.BP_ObserveObj as actor: BP_ObserveObj_C /Game/Assets/Hiyoshi/TmpLevel.TmpLevel:PersistentLevel.BP_ObserveObj_C_0
+[2024.11.15-07.00.50:419][273]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hiyoshi/BP_ObserveObj.BP_ObserveObj_C
+[2024.11.15-07.00.50:419][273]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hiyoshi/BP_ObserveObj.BP_ObserveObj_C
+[2024.11.15-07.00.50:429][273]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hiyoshi/BP_ObserveObj.BP_ObserveObj as actor: BP_ObserveObj_C /Game/Assets/Hiyoshi/TmpLevel.TmpLevel:PersistentLevel.BP_ObserveObj_C_1
+[2024.11.15-07.00.50:433][273]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hiyoshi/BP_ObserveObj.BP_ObserveObj as actor: BP_ObserveObj_C /Game/Assets/Hiyoshi/TmpLevel.TmpLevel:PersistentLevel.BP_ObserveObj_C_1
+[2024.11.15-07.00.52:890][373]Cmd: DELETE
+[2024.11.15-07.00.52:892][373]Cmd: ACTOR DELETE
+[2024.11.15-07.00.52:939][373]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.15-07.00.52:958][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.11.15-07.00.52:963][373]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2024.11.15-07.00.54:552][465]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.15-07.00.54:557][465]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.15-07.00.54:557][465]PIE: New page: PIE session: TmpLevel (2024/11/16 1:00:54)
+[2024.11.15-07.00.54:557][465]LogPlayLevel: Creating play world package: /Game/Assets/Hiyoshi/UEDPIE_0_TmpLevel
+[2024.11.15-07.00.54:559][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002009s)
+[2024.11.15-07.00.54:559][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Hiyoshi/TmpLevel.TmpLevel to /Game/Assets/Hiyoshi/UEDPIE_0_TmpLevel.TmpLevel (0.002060s)
+[2024.11.15-07.00.54:580][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.11.15-07.00.54:582][465]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.15-07.00.54:582][465]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.15-07.00.54:583][465]LogAIModule: Creating AISystem for world TmpLevel
+[2024.11.15-07.00.54:583][465]LogPlayLevel: PIE: World Init took: (0.001065s)
+[2024.11.15-07.00.54:583][465]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.11.15-07.00.54:583][465]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.15-07.00.54:583][465]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.15-07.00.54:583][465]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.15-07.00.54:583][465]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.15-07.00.54:583][465]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.15-07.00.54:583][465]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.15-07.00.54:583][465]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.15-07.00.54:583][465]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.15-07.00.54:584][465]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.15-07.00.54:584][465]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.15-07.00.54:584][465]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.15-07.00.54:586][465]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.15-07.00.54:612][465]LogAudioMixer: Display: Using Audio Hardware Device スピーカー (Realtek(R) Audio)
+[2024.11.15-07.00.54:612][465]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.15-07.00.54:612][465]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.15-07.00.54:612][465]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.15-07.00.54:614][465]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.11.15-07.00.54:614][465]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.11.15-07.00.54:623][465]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.11.15-07.00.54:623][465]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.11.15-07.00.54:623][465]LogInit: FAudioDevice initialized with ID 14.
+[2024.11.15-07.00.54:623][465]LogAudio: Display: Audio Device (ID: 14) registered with world 'TmpLevel'.
+[2024.11.15-07.00.54:623][465]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.11.15-07.00.54:626][465]LogLoad: Game class is 'BP_GB_GameBase_C'
+[2024.11.15-07.00.54:627][465]LogWorld: Bringing World /Game/Assets/Hiyoshi/UEDPIE_0_TmpLevel.TmpLevel up for play (max tick rate 60) at 2024.11.15-16.00.54
+[2024.11.15-07.00.54:679][465]LogWorld: Bringing up level for play took: 0.052932
+[2024.11.15-07.00.54:682][465]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.11.15-07.00.54:683][465]LogBlueprintUserMessages: [BP_FlagCountController_C_1] StartFlagController
+[2024.11.15-07.00.54:683][465]LogBlueprintUserMessages: [BP_FlagCountController_C_1] 00
+[2024.11.15-07.00.54:683][465]LogBlueprintUserMessages: [BP_FlagCountController_C_1] 14
+[2024.11.15-07.00.54:683][465]LogBlueprintUserMessages: [BP_FlagCountController_C_1] 22
+[2024.11.15-07.00.54:690][465]LogBlueprintUserMessages: [BP_FlagCountController_C_1] 31
+[2024.11.15-07.00.54:690][465]LogBlueprintUserMessages: [BP_FlagCountController_C_1] 43
+[2024.11.15-07.00.54:691][465]PIE: Server logged in
+[2024.11.15-07.00.54:693][465]PIE: Play in editor total start time 0.136 seconds.
+[2024.11.15-07.01.00:281][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.15-07.01.00:281][793]LogWorld: BeginTearingDown for /Game/Assets/Hiyoshi/UEDPIE_0_TmpLevel
+[2024.11.15-07.01.00:294][793]LogWorld: UWorld::CleanupWorld for TmpLevel, bSessionEnded=true, bCleanupResources=true
+[2024.11.15-07.01.00:294][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.15-07.01.00:300][793]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.15-07.01.00:303][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.15-07.01.00:312][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.15-07.01.00:313][793]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.11.15-07.01.00:313][793]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.11.15-07.01.00:315][793]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.11.15-07.01.00:321][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.11.15-07.01.00:355][794]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.11.15-07.01.36:547][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.11.15-07.01.36:558][570]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Hiyoshi/TmpLevel_Auto4
+[2024.11.15-07.01.36:558][570]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/TmpLevel_Auto428131F474E9C8FEABEA96892E4689C3F.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Saved/Autosaves/Game/Assets/Hiyoshi/TmpLevel_Auto4.umap'
+[2024.11.15-07.01.36:561][570]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/vantan/Documents/Unreal/Saved/Autosaves/Game/Assets/Hiyoshi/TmpLevel_Auto4.umap is in the /Temp path, will not scan.
+[2024.11.15-07.01.36:561][570]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Assets/Hiyoshi/TmpLevel_Auto4 is in the /Temp path, will not scan.
+[2024.11.15-07.01.36:561][570]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Assets/Hiyoshi/TmpLevel_Auto4 is in the /Temp path, will not scan.
+[2024.11.15-07.01.36:561][570]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Hiyoshi/TmpLevel' took 0.025
+[2024.11.15-07.01.36:561][570]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.025
+[2024.11.15-07.01.36:561][570]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Hiyoshi/BP_PC_Player] ([2] browsable assets)...
+[2024.11.15-07.01.36:561][570]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Hiyoshi/BP_PC_Player]
+[2024.11.15-07.01.36:563][570]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Hiyoshi/BP_PC_Player_Auto4
+[2024.11.15-07.01.36:563][570]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/BP_PC_Player_Auto4F2161D664AEEFFCF6B2E72A99CBFA747.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Saved/Autosaves/Game/Assets/Hiyoshi/BP_PC_Player_Auto4.uasset'
+[2024.11.15-07.01.36:565][570]LogFileHelpers: Auto-saving content packages took 0.003
+[2024.11.15-07.02.51:662][869]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Hiyoshi/BP_PC_Player.BP_PC_Player
+[2024.11.15-07.02.51:663][869]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.15-07.02.51:663][869]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.15-07.02.51:809][869]LogViewport: Scene viewport resized to 1057x308, mode Windowed.
+[2024.11.15-07.03.01:091][418]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.15-07.03.01:195][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Hiyoshi/BP_PC_Player" FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/BP_PC_Player.uasset" SILENT=true
+[2024.11.15-07.03.01:197][418]LogSavePackage: Moving output files for package: /Game/Assets/Hiyoshi/BP_PC_Player
+[2024.11.15-07.03.01:197][418]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/BP_PC_Player4E066B72427EACB0A592A799D86D9648.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/BP_PC_Player.uasset'
+[2024.11.15-07.03.01:211][418]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 1.76 sec)
+[2024.11.15-07.03.01:212][418]AssetCheck: New page: Asset Save: BP_PC_Player
+[2024.11.15-07.03.01:212][418]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/Hiyoshi/BP_PC_Player.BP_PC_Player
+[2024.11.15-07.03.03:273][537]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.15-07.03.03:278][537]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.15-07.03.03:278][537]PIE: New page: PIE session: TmpLevel (2024/11/16 1:03:03)
+[2024.11.15-07.03.03:278][537]LogPlayLevel: Creating play world package: /Game/Assets/Hiyoshi/UEDPIE_0_TmpLevel
+[2024.11.15-07.03.03:281][537]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002451s)
+[2024.11.15-07.03.03:281][537]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Hiyoshi/TmpLevel.TmpLevel to /Game/Assets/Hiyoshi/UEDPIE_0_TmpLevel.TmpLevel (0.002484s)
+[2024.11.15-07.03.03:294][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.11.15-07.03.03:296][537]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.15-07.03.03:296][537]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.15-07.03.03:298][537]LogAIModule: Creating AISystem for world TmpLevel
+[2024.11.15-07.03.03:298][537]LogPlayLevel: PIE: World Init took: (0.001682s)
+[2024.11.15-07.03.03:298][537]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.11.15-07.03.03:298][537]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.15-07.03.03:298][537]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.15-07.03.03:298][537]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.15-07.03.03:298][537]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.15-07.03.03:298][537]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.15-07.03.03:298][537]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.15-07.03.03:298][537]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.15-07.03.03:298][537]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.15-07.03.03:298][537]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.15-07.03.03:298][537]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.15-07.03.03:298][537]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.15-07.03.03:300][537]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.15-07.03.03:324][537]LogAudioMixer: Display: Using Audio Hardware Device スピーカー (Realtek(R) Audio)
+[2024.11.15-07.03.03:324][537]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.15-07.03.03:324][537]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.15-07.03.03:324][537]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.15-07.03.03:326][537]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.11.15-07.03.03:326][537]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.11.15-07.03.03:327][537]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.11.15-07.03.03:327][537]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.11.15-07.03.03:327][537]LogInit: FAudioDevice initialized with ID 15.
+[2024.11.15-07.03.03:327][537]LogAudio: Display: Audio Device (ID: 15) registered with world 'TmpLevel'.
+[2024.11.15-07.03.03:327][537]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.11.15-07.03.03:331][537]LogLoad: Game class is 'BP_GB_GameBase_C'
+[2024.11.15-07.03.03:331][537]LogWorld: Bringing World /Game/Assets/Hiyoshi/UEDPIE_0_TmpLevel.TmpLevel up for play (max tick rate 60) at 2024.11.15-16.03.03
+[2024.11.15-07.03.03:332][537]LogWorld: Bringing up level for play took: 0.000668
+[2024.11.15-07.03.03:333][537]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.11.15-07.03.03:334][537]LogBlueprintUserMessages: [BP_FlagCountController_C_1] StartFlagController
+[2024.11.15-07.03.03:334][537]LogBlueprintUserMessages: [BP_FlagCountController_C_1] 02
+[2024.11.15-07.03.03:334][537]LogBlueprintUserMessages: [BP_FlagCountController_C_1] 14
+[2024.11.15-07.03.03:334][537]LogBlueprintUserMessages: [BP_FlagCountController_C_1] 21
+[2024.11.15-07.03.03:334][537]LogBlueprintUserMessages: [BP_FlagCountController_C_1] 30
+[2024.11.15-07.03.03:334][537]LogBlueprintUserMessages: [BP_FlagCountController_C_1] 43
+[2024.11.15-07.03.03:334][537]PIE: Server logged in
+[2024.11.15-07.03.03:336][537]PIE: Play in editor total start time 0.057 seconds.
+[2024.11.15-07.03.45:550][372]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2024.11.15-07.03.45:550][372]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2024.11.15-07.03.51:579][594]LogSlate: Window 'Message' being destroyed
+[2024.11.15-07.03.51:598][594]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+BP_GB_GameBase
+TmpLevel
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2024.11.15-07.03.51:604][594]LogMetaData: Removing '/Game/Hiyoshi/BP_FlagCountController.BP_FlagCountController:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Assets/Hiyoshi/BP_FlagCountController.PackageMetaData'
+[2024.11.15-07.03.51:604][594]LogMetaData: Removing '/Game/Hiyoshi/BP_FlagCountController.BP_FlagCountController_C' ref from Metadata '/Game/Assets/Hiyoshi/BP_FlagCountController.PackageMetaData'
+[2024.11.15-07.03.51:604][594]LogMetaData: Removing '/Game/Hiyoshi/BP_FlagCountController.BP_FlagCountController:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Assets/Hiyoshi/BP_FlagCountController.PackageMetaData'
+[2024.11.15-07.03.51:604][594]LogMetaData: Removing '/Game/Hiyoshi/BP_FlagCountController.BP_FlagCountController:ObservedObjOccurrence.K2Node_FunctionEntry_0' ref from Metadata '/Game/Assets/Hiyoshi/BP_FlagCountController.PackageMetaData'
+[2024.11.15-07.03.51:604][594]LogMetaData: Removing '/Game/Hiyoshi/BP_FlagCountController.BP_FlagCountController:MakeRandomFlagIndexes.K2Node_FunctionEntry_0' ref from Metadata '/Game/Assets/Hiyoshi/BP_FlagCountController.PackageMetaData'
+[2024.11.15-07.03.51:604][594]LogMetaData: Removing '/Game/Hiyoshi/BP_FlagCountController.SKEL_BP_FlagCountController_C' ref from Metadata '/Game/Assets/Hiyoshi/BP_FlagCountController.PackageMetaData'
+[2024.11.15-07.03.51:604][594]LogMetaData: Removing '/Game/Hiyoshi/BP_FlagCountController.BP_FlagCountController_C:ReceiveBeginPlay' ref from Metadata '/Game/Assets/Hiyoshi/BP_FlagCountController.PackageMetaData'
+[2024.11.15-07.03.51:604][594]LogMetaData: Removing '/Game/Hiyoshi/BP_FlagCountController.SKEL_BP_FlagCountController_C:UserConstructionScript' ref from Metadata '/Game/Assets/Hiyoshi/BP_FlagCountController.PackageMetaData'
+[2024.11.15-07.03.51:604][594]LogMetaData: Removing '/Game/Hiyoshi/BP_FlagCountController.SKEL_BP_FlagCountController_C:ReceiveBeginPlay' ref from Metadata '/Game/Assets/Hiyoshi/BP_FlagCountController.PackageMetaData'
+[2024.11.15-07.03.51:637][594]LogMetaData: Removing '/Game/Hiyoshi/TmpLevel.TmpLevel_C' ref from Metadata '/Game/Assets/Hiyoshi/TmpLevel.PackageMetaData'
+[2024.11.15-07.03.51:637][594]LogMetaData: Removing '/Game/Hiyoshi/TmpLevel.TmpLevel:PersistentLevel.TmpLevel.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Assets/Hiyoshi/TmpLevel.PackageMetaData'
+[2024.11.15-07.03.51:637][594]LogMetaData: Removing '/Game/Hiyoshi/TmpLevel.SKEL_TmpLevel_C' ref from Metadata '/Game/Assets/Hiyoshi/TmpLevel.PackageMetaData'
+[2024.11.15-07.03.51:637][594]LogMetaData: Removing '/Game/Hiyoshi/TmpLevel.SKEL_TmpLevel_C:ReceiveBeginPlay' ref from Metadata '/Game/Assets/Hiyoshi/TmpLevel.PackageMetaData'
+[2024.11.15-07.03.51:646][594]LogMetaData: Removing '/Game/Hiyoshi/BP_GB_GameBase.BP_GB_GameBase:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Assets/Hiyoshi/BP_GB_GameBase.PackageMetaData'
+[2024.11.15-07.03.51:646][594]LogMetaData: Removing '/Game/Hiyoshi/BP_GB_GameBase.SKEL_BP_GB_GameBase_C' ref from Metadata '/Game/Assets/Hiyoshi/BP_GB_GameBase.PackageMetaData'
+[2024.11.15-07.03.51:646][594]LogMetaData: Removing '/Game/Hiyoshi/BP_GB_GameBase.BP_GB_GameBase_C' ref from Metadata '/Game/Assets/Hiyoshi/BP_GB_GameBase.PackageMetaData'
+[2024.11.15-07.03.51:646][594]LogMetaData: Removing '/Game/Hiyoshi/BP_GB_GameBase.BP_GB_GameBase:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Assets/Hiyoshi/BP_GB_GameBase.PackageMetaData'
+[2024.11.15-07.03.51:646][594]LogMetaData: Removing '/Game/Hiyoshi/BP_GB_GameBase.BP_GB_GameBase:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Assets/Hiyoshi/BP_GB_GameBase.PackageMetaData'
+[2024.11.15-07.03.51:646][594]LogMetaData: Removing '/Game/Hiyoshi/BP_GB_GameBase.SKEL_BP_GB_GameBase_C:ReceiveBeginPlay' ref from Metadata '/Game/Assets/Hiyoshi/BP_GB_GameBase.PackageMetaData'
+[2024.11.15-07.03.51:646][594]LogMetaData: Removing '/Game/Hiyoshi/BP_GB_GameBase.SKEL_BP_GB_GameBase_C:ReceiveTick' ref from Metadata '/Game/Assets/Hiyoshi/BP_GB_GameBase.PackageMetaData'
+[2024.11.15-07.03.51:646][594]LogMetaData: Removing '/Game/Hiyoshi/BP_GB_GameBase.SKEL_BP_GB_GameBase_C:UserConstructionScript' ref from Metadata '/Game/Assets/Hiyoshi/BP_GB_GameBase.PackageMetaData'
+[2024.11.15-07.03.51:655][594]LogMetaData: Removing '/Game/Hiyoshi/BP_PC_Player.BP_PC_Player:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Assets/Hiyoshi/BP_PC_Player.PackageMetaData'
+[2024.11.15-07.03.51:655][594]LogMetaData: Removing '/Game/Hiyoshi/BP_PC_Player.SKEL_BP_PC_Player_C:UserConstructionScript' ref from Metadata '/Game/Assets/Hiyoshi/BP_PC_Player.PackageMetaData'
+[2024.11.15-07.03.51:655][594]LogMetaData: Removing '/Game/Hiyoshi/BP_PC_Player.SKEL_BP_PC_Player_C' ref from Metadata '/Game/Assets/Hiyoshi/BP_PC_Player.PackageMetaData'
+[2024.11.15-07.03.51:655][594]LogMetaData: Removing '/Game/Hiyoshi/BP_PC_Player.BP_PC_Player_C' ref from Metadata '/Game/Assets/Hiyoshi/BP_PC_Player.PackageMetaData'
+[2024.11.15-07.03.51:655][594]LogMetaData: Removing '/Game/Hiyoshi/BP_PC_Player.BP_PC_Player:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Assets/Hiyoshi/BP_PC_Player.PackageMetaData'
+[2024.11.15-07.03.51:655][594]LogMetaData: Removing '/Game/Hiyoshi/BP_PC_Player.BP_PC_Player:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Assets/Hiyoshi/BP_PC_Player.PackageMetaData'
+[2024.11.15-07.03.51:662][594]LogMetaData: Removing '/Game/Hiyoshi/BP_ObserveObj.BP_ObserveObj:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Assets/Hiyoshi/BP_ObserveObj.PackageMetaData'
+[2024.11.15-07.03.51:662][594]LogMetaData: Removing '/Game/Hiyoshi/BP_ObserveObj.SKEL_BP_ObserveObj_C' ref from Metadata '/Game/Assets/Hiyoshi/BP_ObserveObj.PackageMetaData'
+[2024.11.15-07.03.51:662][594]LogMetaData: Removing '/Game/Hiyoshi/BP_ObserveObj.BP_ObserveObj_C' ref from Metadata '/Game/Assets/Hiyoshi/BP_ObserveObj.PackageMetaData'
+[2024.11.15-07.03.51:662][594]LogMetaData: Removing '/Game/Hiyoshi/BP_ObserveObj.BP_ObserveObj:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Assets/Hiyoshi/BP_ObserveObj.PackageMetaData'
+[2024.11.15-07.03.51:662][594]LogMetaData: Removing '/Game/Hiyoshi/BP_ObserveObj.BP_ObserveObj:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Assets/Hiyoshi/BP_ObserveObj.PackageMetaData'
+[2024.11.15-07.03.51:662][594]LogMetaData: Removing '/Game/Hiyoshi/BP_ObserveObj.BP_ObserveObj:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Assets/Hiyoshi/BP_ObserveObj.PackageMetaData'
+[2024.11.15-07.03.51:662][594]LogMetaData: Removing '/Game/Hiyoshi/BP_ObserveObj.BP_ObserveObj_C:ReceiveActorOnClicked' ref from Metadata '/Game/Assets/Hiyoshi/BP_ObserveObj.PackageMetaData'
+[2024.11.15-07.03.51:662][594]LogMetaData: Removing '/Game/Hiyoshi/BP_ObserveObj.SKEL_BP_ObserveObj_C:UserConstructionScript' ref from Metadata '/Game/Assets/Hiyoshi/BP_ObserveObj.PackageMetaData'
+[2024.11.15-07.03.51:662][594]LogMetaData: Removing '/Game/Hiyoshi/BP_ObserveObj.SKEL_BP_ObserveObj_C:ReceiveActorOnClicked' ref from Metadata '/Game/Assets/Hiyoshi/BP_ObserveObj.PackageMetaData'
+[2024.11.15-07.03.51:669][594]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.15-07.03.51:671][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hiyoshi/TmpLevel" FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Hiyoshi/TmpLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.15-07.03.51:703][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.11.15-07.03.51:704][594]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Hiyoshi/TmpLevel does not exist, will not scan.
+[2024.11.15-07.03.51:715][594]LogSavePackage: Moving output files for package: /Game/Hiyoshi/TmpLevel
+[2024.11.15-07.03.51:715][594]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/TmpLevel3C0BBFBB4912F8C1C2F82F8FEB48576B.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Content/Hiyoshi/TmpLevel.umap'
+[2024.11.15-07.03.51:723][594]LogFileHelpers: Saving map 'TmpLevel' took 0.053
+[2024.11.15-07.03.51:724][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Hiyoshi/TmpLevel" FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/TmpLevel.umap" SILENT=true
+[2024.11.15-07.03.51:725][594]LogSavePackage: Moving output files for package: /Game/Assets/Hiyoshi/TmpLevel
+[2024.11.15-07.03.51:726][594]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/TmpLevel2C146DAF489D6820042615B49EE84BD6.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/TmpLevel.umap'
+[2024.11.15-07.03.51:729][594]LogSavePackage: Moving output files for package: /Game/Assets/Hiyoshi/_GENERATED/vantan/Sphere_607F28D4
+[2024.11.15-07.03.51:729][594]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/Sphere_607F28D4A3F94C834E880B8569976E959F4A18FA.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/_GENERATED/vantan/Sphere_607F28D4.uasset'
+[2024.11.15-07.03.51:731][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hiyoshi/BP_FlagCountController" FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Hiyoshi/BP_FlagCountController.uasset" SILENT=true
+[2024.11.15-07.03.51:739][594]LogSavePackage: Moving output files for package: /Game/Hiyoshi/BP_FlagCountController
+[2024.11.15-07.03.51:739][594]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/BP_FlagCountController6ECA9E7A462A90839B0B9E80463800CC.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Content/Hiyoshi/BP_FlagCountController.uasset'
+[2024.11.15-07.03.51:745][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hiyoshi/BP_GB_GameBase" FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Hiyoshi/BP_GB_GameBase.uasset" SILENT=true
+[2024.11.15-07.03.51:748][594]LogSavePackage: Moving output files for package: /Game/Hiyoshi/BP_GB_GameBase
+[2024.11.15-07.03.51:748][594]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/BP_GB_GameBaseE66C27A744E682B22C20FE8E1F1226ED.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Content/Hiyoshi/BP_GB_GameBase.uasset'
+[2024.11.15-07.03.51:753][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Hiyoshi/BP_GB_GameBase" FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/BP_GB_GameBase.uasset" SILENT=true
+[2024.11.15-07.03.51:753][594]LogSavePackage: Moving output files for package: /Game/Assets/Hiyoshi/BP_GB_GameBase
+[2024.11.15-07.03.51:754][594]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/BP_GB_GameBaseFCEC5AE744CA6337680865A533DB22E3.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Content/Assets/Hiyoshi/BP_GB_GameBase.uasset'
+[2024.11.15-07.03.51:756][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hiyoshi/BP_PC_Player" FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Hiyoshi/BP_PC_Player.uasset" SILENT=true
+[2024.11.15-07.03.51:759][594]LogSavePackage: Moving output files for package: /Game/Hiyoshi/BP_PC_Player
+[2024.11.15-07.03.51:759][594]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/BP_PC_PlayerA4FBBD44488909745CE5D28189BF3963.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Content/Hiyoshi/BP_PC_Player.uasset'
+[2024.11.15-07.03.51:884][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hiyoshi/BP_ObserveObj" FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Hiyoshi/BP_ObserveObj.uasset" SILENT=true
+[2024.11.15-07.03.51:888][594]LogSavePackage: Moving output files for package: /Game/Hiyoshi/BP_ObserveObj
+[2024.11.15-07.03.51:888][594]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/BP_ObserveObjADAA403A4215E3F75D8D2689468C7013.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Content/Hiyoshi/BP_ObserveObj.uasset'
+[2024.11.15-07.03.51:893][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hiyoshi/Test/Sphere_607F28D4" FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Hiyoshi/Test/Sphere_607F28D4.uasset" SILENT=true
+[2024.11.15-07.03.51:897][594]LogSavePackage: Moving output files for package: /Game/Hiyoshi/Test/Sphere_607F28D4
+[2024.11.15-07.03.51:897][594]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/Sphere_607F28D429EE08B14DEB2A2729ECCBB316ACBE59.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Content/Hiyoshi/Test/Sphere_607F28D4.uasset'
+[2024.11.15-07.03.51:899][594]LogFileHelpers: InternalPromptForCheckoutAndSave took 228 ms (total: 1.99 sec)
+[2024.11.15-07.03.51:955][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.11.15-07.03.51:968][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.11.15-07.03.51:980][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.11.15-07.03.52:029][594]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.15-07.03.52:029][594]LogContentValidation: Display: Validating /Script/Engine.World /Game/Hiyoshi/TmpLevel.TmpLevel
+[2024.11.15-07.03.52:029][594]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Assets/Hiyoshi/TmpLevel.TmpLevel
+[2024.11.15-07.03.52:029][594]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Assets/Hiyoshi/TmpLevel.TmpLevel_C
+[2024.11.15-07.03.52:029][594]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Assets/Hiyoshi/TmpLevel.Default__TmpLevel_C
+[2024.11.15-07.03.52:029][594]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Assets/Hiyoshi/_GENERATED/vantan/Sphere_607F28D4.Sphere_607F28D4
+[2024.11.15-07.03.52:029][594]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Hiyoshi/BP_FlagCountController.BP_FlagCountController
+[2024.11.15-07.03.52:029][594]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Hiyoshi/BP_GB_GameBase.BP_GB_GameBase
+[2024.11.15-07.03.52:029][594]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Assets/Hiyoshi/BP_GB_GameBase.BP_GB_GameBase
+[2024.11.15-07.03.52:029][594]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Assets/Hiyoshi/BP_GB_GameBase.BP_GB_GameBase_C
+[2024.11.15-07.03.52:029][594]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Assets/Hiyoshi/BP_GB_GameBase.Default__BP_GB_GameBase_C
+[2024.11.15-07.03.52:029][594]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Hiyoshi/BP_PC_Player.BP_PC_Player
+[2024.11.15-07.03.52:029][594]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Hiyoshi/BP_ObserveObj.BP_ObserveObj
+[2024.11.15-07.03.52:029][594]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Hiyoshi/Test/Sphere_607F28D4.Sphere_607F28D4
+[2024.11.15-07.04.30:762][703]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.15-07.04.30:763][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hiyoshi/TmpLevel" FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Hiyoshi/TmpLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.15-07.04.30:790][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.11.15-07.04.30:802][703]LogSavePackage: Moving output files for package: /Game/Hiyoshi/TmpLevel
+[2024.11.15-07.04.30:803][703]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/TmpLevelAFCD241A47611D625268249E915B26F9.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Content/Hiyoshi/TmpLevel.umap'
+[2024.11.15-07.04.30:809][703]LogFileHelpers: Saving map 'TmpLevel' took 0.046
+[2024.11.15-07.04.30:809][703]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 2.04 sec)
+[2024.11.15-07.04.30:809][703]AssetCheck: New page: Asset Save: TmpLevel
+[2024.11.15-07.04.30:809][703]LogContentValidation: Display: Validating /Script/Engine.World /Game/Hiyoshi/TmpLevel.TmpLevel
+[2024.11.15-07.04.55:391][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.15-07.04.55:392][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hiyoshi/TmpLevel" FILE="../../../../../../Users/vantan/Documents/Unreal/Content/Hiyoshi/TmpLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.15-07.04.55:417][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.11.15-07.04.55:430][ 87]LogSavePackage: Moving output files for package: /Game/Hiyoshi/TmpLevel
+[2024.11.15-07.04.55:431][ 87]LogSavePackage: Moving '../../../../../../Users/vantan/Documents/Unreal/Saved/TmpLevel57E00DF04C529CE1EC33538E81FADEF9.tmp' to '../../../../../../Users/vantan/Documents/Unreal/Content/Hiyoshi/TmpLevel.umap'
+[2024.11.15-07.04.55:436][ 87]LogFileHelpers: Saving map 'TmpLevel' took 0.045
+[2024.11.15-07.04.55:436][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 2.08 sec)
+[2024.11.15-07.04.55:438][ 87]AssetCheck: New page: Asset Save: TmpLevel
+[2024.11.15-07.04.55:438][ 87]LogContentValidation: Display: Validating /Script/Engine.World /Game/Hiyoshi/TmpLevel.TmpLevel
